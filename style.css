@@ -1,0 +1,9 @@
+.column {
+    display: inline-block;
+    float: left;
+}
+
+#chart-container {
+    padding: 5px;
+    font-size: 11px;
+}
