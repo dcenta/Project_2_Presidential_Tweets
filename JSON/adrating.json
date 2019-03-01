@@ -1,0 +1,3652 @@
+[
+	{
+		"approve_estimate" : 37.8654,
+		"approve_hi" : 42.8047,
+		"approve_lo" : 32.9261,
+		"date" : "2018-01-01",
+		"disapprove_estimate" : 56.1611,
+		"disapprove_hi" : 61.0169,
+		"disapprove_lo" : 51.3052,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.1205,
+		"approve_hi" : 42.9839,
+		"approve_lo" : 33.257,
+		"date" : "2018-01-02",
+		"disapprove_estimate" : 55.8249,
+		"disapprove_hi" : 60.5927,
+		"disapprove_lo" : 51.057,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.161,
+		"approve_hi" : 43.0086,
+		"approve_lo" : 33.3133,
+		"date" : "2018-01-03",
+		"disapprove_estimate" : 55.6903,
+		"disapprove_hi" : 60.4595,
+		"disapprove_lo" : 50.9212,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.4733,
+		"approve_hi" : 43.4658,
+		"approve_lo" : 33.4808,
+		"date" : "2018-01-04",
+		"disapprove_estimate" : 55.3328,
+		"disapprove_hi" : 60.013,
+		"disapprove_lo" : 50.6526,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.8255,
+		"approve_hi" : 43.6426,
+		"approve_lo" : 34.0083,
+		"date" : "2018-01-05",
+		"disapprove_estimate" : 54.9626,
+		"disapprove_hi" : 59.6304,
+		"disapprove_lo" : 50.2947,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.8255,
+		"approve_hi" : 43.6426,
+		"approve_lo" : 34.0083,
+		"date" : "2018-01-06",
+		"disapprove_estimate" : 54.9626,
+		"disapprove_hi" : 59.6304,
+		"disapprove_lo" : 50.2947,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.8255,
+		"approve_hi" : 43.6426,
+		"approve_lo" : 34.0083,
+		"date" : "2018-01-07",
+		"disapprove_estimate" : 54.9626,
+		"disapprove_hi" : 59.6304,
+		"disapprove_lo" : 50.2947,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.6931,
+		"approve_hi" : 43.4186,
+		"approve_lo" : 33.9676,
+		"date" : "2018-01-08",
+		"disapprove_estimate" : 55.0099,
+		"disapprove_hi" : 59.6627,
+		"disapprove_lo" : 50.3572,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.7345,
+		"approve_hi" : 43.5169,
+		"approve_lo" : 33.9521,
+		"date" : "2018-01-09",
+		"disapprove_estimate" : 55.0092,
+		"disapprove_hi" : 59.658,
+		"disapprove_lo" : 50.3604,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.2206,
+		"approve_hi" : 43.9398,
+		"approve_lo" : 34.5014,
+		"date" : "2018-01-10",
+		"disapprove_estimate" : 54.604,
+		"disapprove_hi" : 59.3017,
+		"disapprove_lo" : 49.9062,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.1035,
+		"approve_hi" : 43.9635,
+		"approve_lo" : 34.2435,
+		"date" : "2018-01-11",
+		"disapprove_estimate" : 54.6395,
+		"disapprove_hi" : 59.3162,
+		"disapprove_lo" : 49.9627,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.101,
+		"approve_hi" : 43.76,
+		"approve_lo" : 34.442,
+		"date" : "2018-01-12",
+		"disapprove_estimate" : 54.5232,
+		"disapprove_hi" : 59.1282,
+		"disapprove_lo" : 49.9181,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.101,
+		"approve_hi" : 43.76,
+		"approve_lo" : 34.442,
+		"date" : "2018-01-13",
+		"disapprove_estimate" : 54.5232,
+		"disapprove_hi" : 59.1282,
+		"disapprove_lo" : 49.9181,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.101,
+		"approve_hi" : 43.76,
+		"approve_lo" : 34.442,
+		"date" : "2018-01-14",
+		"disapprove_estimate" : 54.5232,
+		"disapprove_hi" : 59.1282,
+		"disapprove_lo" : 49.9181,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.2924,
+		"approve_hi" : 44.1737,
+		"approve_lo" : 34.4112,
+		"date" : "2018-01-15",
+		"disapprove_estimate" : 54.5409,
+		"disapprove_hi" : 59.0989,
+		"disapprove_lo" : 49.9829,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.7815,
+		"approve_hi" : 44.6299,
+		"approve_lo" : 34.933,
+		"date" : "2018-01-16",
+		"disapprove_estimate" : 54.2721,
+		"disapprove_hi" : 58.6432,
+		"disapprove_lo" : 49.9011,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2061,
+		"approve_hi" : 44.9501,
+		"approve_lo" : 35.4621,
+		"date" : "2018-01-17",
+		"disapprove_estimate" : 54.2913,
+		"disapprove_hi" : 58.6554,
+		"disapprove_lo" : 49.9272,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.7545,
+		"approve_hi" : 44.3487,
+		"approve_lo" : 35.1604,
+		"date" : "2018-01-18",
+		"disapprove_estimate" : 54.8568,
+		"disapprove_hi" : 59.0898,
+		"disapprove_lo" : 50.6239,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.4708,
+		"approve_hi" : 44.0076,
+		"approve_lo" : 34.9341,
+		"date" : "2018-01-19",
+		"disapprove_estimate" : 55.4662,
+		"disapprove_hi" : 59.6805,
+		"disapprove_lo" : 51.2519,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.4708,
+		"approve_hi" : 44.0076,
+		"approve_lo" : 34.9341,
+		"date" : "2018-01-20",
+		"disapprove_estimate" : 55.4662,
+		"disapprove_hi" : 59.6805,
+		"disapprove_lo" : 51.2519,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.1116,
+		"approve_hi" : 43.6913,
+		"approve_lo" : 34.5319,
+		"date" : "2018-01-21",
+		"disapprove_estimate" : 55.6647,
+		"disapprove_hi" : 59.8631,
+		"disapprove_lo" : 51.4664,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.6616,
+		"approve_hi" : 43.1522,
+		"approve_lo" : 34.1711,
+		"date" : "2018-01-22",
+		"disapprove_estimate" : 56.0683,
+		"disapprove_hi" : 60.2879,
+		"disapprove_lo" : 51.8486,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.3538,
+		"approve_hi" : 42.8085,
+		"approve_lo" : 33.8991,
+		"date" : "2018-01-23",
+		"disapprove_estimate" : 56.4122,
+		"disapprove_hi" : 60.6215,
+		"disapprove_lo" : 52.203,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.1869,
+		"approve_hi" : 43.8029,
+		"approve_lo" : 34.571,
+		"date" : "2018-01-24",
+		"disapprove_estimate" : 55.9117,
+		"disapprove_hi" : 60.1513,
+		"disapprove_lo" : 51.672,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.0417,
+		"approve_hi" : 43.6841,
+		"approve_lo" : 34.3994,
+		"date" : "2018-01-25",
+		"disapprove_estimate" : 55.9585,
+		"disapprove_hi" : 60.187,
+		"disapprove_lo" : 51.7299,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.8226,
+		"approve_hi" : 43.3661,
+		"approve_lo" : 34.2791,
+		"date" : "2018-01-26",
+		"disapprove_estimate" : 56.2494,
+		"disapprove_hi" : 60.4687,
+		"disapprove_lo" : 52.0301,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.8226,
+		"approve_hi" : 43.3661,
+		"approve_lo" : 34.2791,
+		"date" : "2018-01-27",
+		"disapprove_estimate" : 56.2494,
+		"disapprove_hi" : 60.4687,
+		"disapprove_lo" : 52.0301,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.8226,
+		"approve_hi" : 43.3661,
+		"approve_lo" : 34.2791,
+		"date" : "2018-01-28",
+		"disapprove_estimate" : 56.2494,
+		"disapprove_hi" : 60.4687,
+		"disapprove_lo" : 52.0301,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.7834,
+		"approve_hi" : 43.3,
+		"approve_lo" : 34.2668,
+		"date" : "2018-01-29",
+		"disapprove_estimate" : 56.2664,
+		"disapprove_hi" : 60.4775,
+		"disapprove_lo" : 52.0552,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 38.9956,
+		"approve_hi" : 43.4533,
+		"approve_lo" : 34.5379,
+		"date" : "2018-01-30",
+		"disapprove_estimate" : 55.8126,
+		"disapprove_hi" : 59.9447,
+		"disapprove_lo" : 51.6804,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.5264,
+		"approve_hi" : 43.9146,
+		"approve_lo" : 35.1382,
+		"date" : "2018-01-31",
+		"disapprove_estimate" : 54.9353,
+		"disapprove_hi" : 59.4603,
+		"disapprove_lo" : 50.4104,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.7791,
+		"approve_hi" : 44.3124,
+		"approve_lo" : 35.2459,
+		"date" : "2018-02-01",
+		"disapprove_estimate" : 54.6968,
+		"disapprove_hi" : 59.2378,
+		"disapprove_lo" : 50.1559,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1992,
+		"approve_hi" : 44.904,
+		"approve_lo" : 35.4944,
+		"date" : "2018-02-02",
+		"disapprove_estimate" : 54.2068,
+		"disapprove_hi" : 58.8217,
+		"disapprove_lo" : 49.5919,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.208,
+		"approve_hi" : 44.971,
+		"approve_lo" : 35.4451,
+		"date" : "2018-02-03",
+		"disapprove_estimate" : 54.2018,
+		"disapprove_hi" : 58.8786,
+		"disapprove_lo" : 49.5251,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.208,
+		"approve_hi" : 44.971,
+		"approve_lo" : 35.4451,
+		"date" : "2018-02-04",
+		"disapprove_estimate" : 54.2018,
+		"disapprove_hi" : 58.8786,
+		"disapprove_lo" : 49.5251,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3745,
+		"approve_hi" : 45.1473,
+		"approve_lo" : 35.6017,
+		"date" : "2018-02-05",
+		"disapprove_estimate" : 54.1613,
+		"disapprove_hi" : 58.825,
+		"disapprove_lo" : 49.4975,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1323,
+		"approve_hi" : 44.9332,
+		"approve_lo" : 35.3315,
+		"date" : "2018-02-06",
+		"disapprove_estimate" : 54.1513,
+		"disapprove_hi" : 58.6393,
+		"disapprove_lo" : 49.6633,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.7109,
+		"approve_hi" : 45.4794,
+		"approve_lo" : 35.9425,
+		"date" : "2018-02-07",
+		"disapprove_estimate" : 53.78,
+		"disapprove_hi" : 58.1473,
+		"disapprove_lo" : 49.4128,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.8116,
+		"approve_hi" : 45.635,
+		"approve_lo" : 35.9882,
+		"date" : "2018-02-08",
+		"disapprove_estimate" : 53.6136,
+		"disapprove_hi" : 57.9996,
+		"disapprove_lo" : 49.2275,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.8304,
+		"approve_hi" : 45.6112,
+		"approve_lo" : 36.0496,
+		"date" : "2018-02-09",
+		"disapprove_estimate" : 53.5659,
+		"disapprove_hi" : 57.7638,
+		"disapprove_lo" : 49.368,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.8304,
+		"approve_hi" : 45.6112,
+		"approve_lo" : 36.0496,
+		"date" : "2018-02-10",
+		"disapprove_estimate" : 53.5659,
+		"disapprove_hi" : 57.7638,
+		"disapprove_lo" : 49.368,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.8304,
+		"approve_hi" : 45.6112,
+		"approve_lo" : 36.0496,
+		"date" : "2018-02-11",
+		"disapprove_estimate" : 53.5659,
+		"disapprove_hi" : 57.7638,
+		"disapprove_lo" : 49.368,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.9197,
+		"approve_hi" : 45.6928,
+		"approve_lo" : 36.1465,
+		"date" : "2018-02-12",
+		"disapprove_estimate" : 53.5759,
+		"disapprove_hi" : 57.8105,
+		"disapprove_lo" : 49.3413,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.9816,
+		"approve_hi" : 45.7411,
+		"approve_lo" : 36.2221,
+		"date" : "2018-02-13",
+		"disapprove_estimate" : 53.6408,
+		"disapprove_hi" : 57.8003,
+		"disapprove_lo" : 49.4813,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4279,
+		"approve_hi" : 46.2514,
+		"approve_lo" : 36.6043,
+		"date" : "2018-02-14",
+		"disapprove_estimate" : 53.1417,
+		"disapprove_hi" : 57.5824,
+		"disapprove_lo" : 48.701,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4591,
+		"approve_hi" : 46.1453,
+		"approve_lo" : 36.7728,
+		"date" : "2018-02-15",
+		"disapprove_estimate" : 53.2495,
+		"disapprove_hi" : 57.5566,
+		"disapprove_lo" : 48.9425,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3879,
+		"approve_hi" : 46.0468,
+		"approve_lo" : 36.729,
+		"date" : "2018-02-16",
+		"disapprove_estimate" : 53.142,
+		"disapprove_hi" : 57.3612,
+		"disapprove_lo" : 48.9228,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3879,
+		"approve_hi" : 46.0468,
+		"approve_lo" : 36.729,
+		"date" : "2018-02-17",
+		"disapprove_estimate" : 53.142,
+		"disapprove_hi" : 57.3612,
+		"disapprove_lo" : 48.9228,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3879,
+		"approve_hi" : 46.0468,
+		"approve_lo" : 36.729,
+		"date" : "2018-02-18",
+		"disapprove_estimate" : 53.142,
+		"disapprove_hi" : 57.3612,
+		"disapprove_lo" : 48.9228,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.1414,
+		"approve_hi" : 45.9651,
+		"approve_lo" : 36.3178,
+		"date" : "2018-02-19",
+		"disapprove_estimate" : 53.4146,
+		"disapprove_hi" : 57.884,
+		"disapprove_lo" : 48.9452,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.9889,
+		"approve_hi" : 45.7826,
+		"approve_lo" : 36.1952,
+		"date" : "2018-02-20",
+		"disapprove_estimate" : 53.4363,
+		"disapprove_hi" : 57.8506,
+		"disapprove_lo" : 49.022,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5464,
+		"approve_hi" : 45.6544,
+		"approve_lo" : 35.4384,
+		"date" : "2018-02-21",
+		"disapprove_estimate" : 54.1897,
+		"disapprove_hi" : 58.8658,
+		"disapprove_lo" : 49.5135,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5747,
+		"approve_hi" : 45.5818,
+		"approve_lo" : 35.5677,
+		"date" : "2018-02-22",
+		"disapprove_estimate" : 53.9028,
+		"disapprove_hi" : 58.786,
+		"disapprove_lo" : 49.0197,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.0194,
+		"approve_hi" : 45.1307,
+		"approve_lo" : 34.9081,
+		"date" : "2018-02-23",
+		"disapprove_estimate" : 54.4461,
+		"disapprove_hi" : 59.6821,
+		"disapprove_lo" : 49.2102,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.0194,
+		"approve_hi" : 45.1307,
+		"approve_lo" : 34.9081,
+		"date" : "2018-02-24",
+		"disapprove_estimate" : 54.4461,
+		"disapprove_hi" : 59.6821,
+		"disapprove_lo" : 49.2102,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.0783,
+		"approve_hi" : 44.2174,
+		"approve_lo" : 33.9393,
+		"date" : "2018-02-25",
+		"disapprove_estimate" : 55.5811,
+		"disapprove_hi" : 60.8385,
+		"disapprove_lo" : 50.3236,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.3705,
+		"approve_hi" : 44.4523,
+		"approve_lo" : 34.2887,
+		"date" : "2018-02-26",
+		"disapprove_estimate" : 55.2086,
+		"disapprove_hi" : 60.3917,
+		"disapprove_lo" : 50.0255,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.6375,
+		"approve_hi" : 44.7178,
+		"approve_lo" : 34.5571,
+		"date" : "2018-02-27",
+		"disapprove_estimate" : 54.9543,
+		"disapprove_hi" : 60.0928,
+		"disapprove_lo" : 49.8158,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.0323,
+		"approve_hi" : 45.1869,
+		"approve_lo" : 34.8777,
+		"date" : "2018-02-28",
+		"disapprove_estimate" : 54.5688,
+		"disapprove_hi" : 59.7423,
+		"disapprove_lo" : 49.3954,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5963,
+		"approve_hi" : 45.9022,
+		"approve_lo" : 35.2903,
+		"date" : "2018-03-01",
+		"disapprove_estimate" : 54.12,
+		"disapprove_hi" : 59.2541,
+		"disapprove_lo" : 48.9858,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4183,
+		"approve_hi" : 45.744,
+		"approve_lo" : 35.0925,
+		"date" : "2018-03-02",
+		"disapprove_estimate" : 54.2665,
+		"disapprove_hi" : 59.3891,
+		"disapprove_lo" : 49.1439,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4183,
+		"approve_hi" : 45.744,
+		"approve_lo" : 35.0925,
+		"date" : "2018-03-03",
+		"disapprove_estimate" : 54.2665,
+		"disapprove_hi" : 59.3891,
+		"disapprove_lo" : 49.1439,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4183,
+		"approve_hi" : 45.744,
+		"approve_lo" : 35.0925,
+		"date" : "2018-03-04",
+		"disapprove_estimate" : 54.2665,
+		"disapprove_hi" : 59.3891,
+		"disapprove_lo" : 49.1439,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3874,
+		"approve_hi" : 45.6798,
+		"approve_lo" : 35.0951,
+		"date" : "2018-03-05",
+		"disapprove_estimate" : 54.3046,
+		"disapprove_hi" : 59.2885,
+		"disapprove_lo" : 49.3206,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4723,
+		"approve_hi" : 45.6588,
+		"approve_lo" : 35.2858,
+		"date" : "2018-03-06",
+		"disapprove_estimate" : 53.9764,
+		"disapprove_hi" : 58.8402,
+		"disapprove_lo" : 49.1126,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2174,
+		"approve_hi" : 45.0696,
+		"approve_lo" : 35.3652,
+		"date" : "2018-03-07",
+		"disapprove_estimate" : 54.1019,
+		"disapprove_hi" : 58.7222,
+		"disapprove_lo" : 49.4817,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6288,
+		"approve_hi" : 45.3099,
+		"approve_lo" : 35.9478,
+		"date" : "2018-03-08",
+		"disapprove_estimate" : 53.6234,
+		"disapprove_hi" : 58.2891,
+		"disapprove_lo" : 48.9578,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6797,
+		"approve_hi" : 45.2067,
+		"approve_lo" : 36.1526,
+		"date" : "2018-03-09",
+		"disapprove_estimate" : 53.4261,
+		"disapprove_hi" : 57.9742,
+		"disapprove_lo" : 48.878,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6797,
+		"approve_hi" : 45.2067,
+		"approve_lo" : 36.1526,
+		"date" : "2018-03-10",
+		"disapprove_estimate" : 53.4261,
+		"disapprove_hi" : 57.9742,
+		"disapprove_lo" : 48.878,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6797,
+		"approve_hi" : 45.2067,
+		"approve_lo" : 36.1526,
+		"date" : "2018-03-11",
+		"disapprove_estimate" : 53.4261,
+		"disapprove_hi" : 57.9742,
+		"disapprove_lo" : 48.878,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6587,
+		"approve_hi" : 45.1721,
+		"approve_lo" : 36.1453,
+		"date" : "2018-03-12",
+		"disapprove_estimate" : 53.4264,
+		"disapprove_hi" : 57.9315,
+		"disapprove_lo" : 48.9213,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5283,
+		"approve_hi" : 45.0239,
+		"approve_lo" : 36.0327,
+		"date" : "2018-03-13",
+		"disapprove_estimate" : 53.8857,
+		"disapprove_hi" : 58.2693,
+		"disapprove_lo" : 49.502,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4244,
+		"approve_hi" : 44.938,
+		"approve_lo" : 35.9107,
+		"date" : "2018-03-14",
+		"disapprove_estimate" : 53.993,
+		"disapprove_hi" : 58.3152,
+		"disapprove_lo" : 49.6709,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.463,
+		"approve_hi" : 44.8932,
+		"approve_lo" : 36.0327,
+		"date" : "2018-03-15",
+		"disapprove_estimate" : 53.656,
+		"disapprove_hi" : 57.8201,
+		"disapprove_lo" : 49.492,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2418,
+		"approve_hi" : 44.7636,
+		"approve_lo" : 35.7201,
+		"date" : "2018-03-16",
+		"disapprove_estimate" : 53.8774,
+		"disapprove_hi" : 58.0951,
+		"disapprove_lo" : 49.6597,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2418,
+		"approve_hi" : 44.7636,
+		"approve_lo" : 35.7201,
+		"date" : "2018-03-17",
+		"disapprove_estimate" : 53.8774,
+		"disapprove_hi" : 58.0951,
+		"disapprove_lo" : 49.6597,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5158,
+		"approve_hi" : 44.9806,
+		"approve_lo" : 36.051,
+		"date" : "2018-03-18",
+		"disapprove_estimate" : 53.8409,
+		"disapprove_hi" : 57.9697,
+		"disapprove_lo" : 49.7121,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.7399,
+		"approve_hi" : 45.4037,
+		"approve_lo" : 36.0762,
+		"date" : "2018-03-19",
+		"disapprove_estimate" : 53.5571,
+		"disapprove_hi" : 57.7947,
+		"disapprove_lo" : 49.3195,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.7313,
+		"approve_hi" : 45.3364,
+		"approve_lo" : 36.1261,
+		"date" : "2018-03-20",
+		"disapprove_estimate" : 53.5215,
+		"disapprove_hi" : 57.6732,
+		"disapprove_lo" : 49.3697,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5877,
+		"approve_hi" : 45.1211,
+		"approve_lo" : 36.0544,
+		"date" : "2018-03-21",
+		"disapprove_estimate" : 53.4253,
+		"disapprove_hi" : 57.3626,
+		"disapprove_lo" : 49.488,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6355,
+		"approve_hi" : 45.2292,
+		"approve_lo" : 36.0418,
+		"date" : "2018-03-22",
+		"disapprove_estimate" : 53.4097,
+		"disapprove_hi" : 57.3354,
+		"disapprove_lo" : 49.4841,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6752,
+		"approve_hi" : 45.0348,
+		"approve_lo" : 36.3156,
+		"date" : "2018-03-23",
+		"disapprove_estimate" : 53.1812,
+		"disapprove_hi" : 57.0704,
+		"disapprove_lo" : 49.292,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4163,
+		"approve_hi" : 44.7488,
+		"approve_lo" : 36.0839,
+		"date" : "2018-03-24",
+		"disapprove_estimate" : 53.528,
+		"disapprove_hi" : 57.5233,
+		"disapprove_lo" : 49.5328,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.7414,
+		"approve_hi" : 45.1429,
+		"approve_lo" : 36.3398,
+		"date" : "2018-03-25",
+		"disapprove_estimate" : 53.4833,
+		"disapprove_hi" : 57.428,
+		"disapprove_lo" : 49.5386,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.095,
+		"approve_hi" : 45.3902,
+		"approve_lo" : 36.7999,
+		"date" : "2018-03-26",
+		"disapprove_estimate" : 53.3947,
+		"disapprove_hi" : 57.3425,
+		"disapprove_lo" : 49.447,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4664,
+		"approve_hi" : 44.6883,
+		"approve_lo" : 36.2445,
+		"date" : "2018-03-27",
+		"disapprove_estimate" : 53.6646,
+		"disapprove_hi" : 57.6734,
+		"disapprove_lo" : 49.6558,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1911,
+		"approve_hi" : 44.3609,
+		"approve_lo" : 36.0213,
+		"date" : "2018-03-28",
+		"disapprove_estimate" : 53.6383,
+		"disapprove_hi" : 57.7678,
+		"disapprove_lo" : 49.5087,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2167,
+		"approve_hi" : 44.3978,
+		"approve_lo" : 36.0356,
+		"date" : "2018-03-29",
+		"disapprove_estimate" : 53.6349,
+		"disapprove_hi" : 57.7447,
+		"disapprove_lo" : 49.5251,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5432,
+		"approve_hi" : 44.7377,
+		"approve_lo" : 36.3488,
+		"date" : "2018-03-30",
+		"disapprove_estimate" : 53.4223,
+		"disapprove_hi" : 57.4432,
+		"disapprove_lo" : 49.4013,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5432,
+		"approve_hi" : 44.7377,
+		"approve_lo" : 36.3488,
+		"date" : "2018-03-31",
+		"disapprove_estimate" : 53.4223,
+		"disapprove_hi" : 57.4432,
+		"disapprove_lo" : 49.4013,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5432,
+		"approve_hi" : 44.7377,
+		"approve_lo" : 36.3488,
+		"date" : "2018-04-01",
+		"disapprove_estimate" : 53.4223,
+		"disapprove_hi" : 57.4432,
+		"disapprove_lo" : 49.4013,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6295,
+		"approve_hi" : 45.0659,
+		"approve_lo" : 36.193,
+		"date" : "2018-04-02",
+		"disapprove_estimate" : 53.4806,
+		"disapprove_hi" : 57.5641,
+		"disapprove_lo" : 49.3972,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3943,
+		"approve_hi" : 44.8201,
+		"approve_lo" : 35.9686,
+		"date" : "2018-04-03",
+		"disapprove_estimate" : 53.6718,
+		"disapprove_hi" : 57.7387,
+		"disapprove_lo" : 49.6049,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3018,
+		"approve_hi" : 45.0093,
+		"approve_lo" : 35.5943,
+		"date" : "2018-04-04",
+		"disapprove_estimate" : 53.755,
+		"disapprove_hi" : 57.9012,
+		"disapprove_lo" : 49.6087,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2228,
+		"approve_hi" : 44.7929,
+		"approve_lo" : 35.6526,
+		"date" : "2018-04-05",
+		"disapprove_estimate" : 53.8038,
+		"disapprove_hi" : 57.858,
+		"disapprove_lo" : 49.7495,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.9687,
+		"approve_hi" : 44.6798,
+		"approve_lo" : 35.2575,
+		"date" : "2018-04-06",
+		"disapprove_estimate" : 53.9996,
+		"disapprove_hi" : 58.1133,
+		"disapprove_lo" : 49.886,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.9687,
+		"approve_hi" : 44.6798,
+		"approve_lo" : 35.2575,
+		"date" : "2018-04-07",
+		"disapprove_estimate" : 53.9996,
+		"disapprove_hi" : 58.1133,
+		"disapprove_lo" : 49.886,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.9687,
+		"approve_hi" : 44.6798,
+		"approve_lo" : 35.2575,
+		"date" : "2018-04-08",
+		"disapprove_estimate" : 53.9996,
+		"disapprove_hi" : 58.1133,
+		"disapprove_lo" : 49.886,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2381,
+		"approve_hi" : 45.0314,
+		"approve_lo" : 35.4447,
+		"date" : "2018-04-09",
+		"disapprove_estimate" : 53.8853,
+		"disapprove_hi" : 58.1949,
+		"disapprove_lo" : 49.5757,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6062,
+		"approve_hi" : 45.3026,
+		"approve_lo" : 35.9097,
+		"date" : "2018-04-10",
+		"disapprove_estimate" : 53.3536,
+		"disapprove_hi" : 57.6387,
+		"disapprove_lo" : 49.0685,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6097,
+		"approve_hi" : 45.32,
+		"approve_lo" : 35.8994,
+		"date" : "2018-04-11",
+		"disapprove_estimate" : 53.297,
+		"disapprove_hi" : 57.7877,
+		"disapprove_lo" : 48.8063,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6308,
+		"approve_hi" : 45.3984,
+		"approve_lo" : 35.8633,
+		"date" : "2018-04-12",
+		"disapprove_estimate" : 53.2664,
+		"disapprove_hi" : 57.6914,
+		"disapprove_lo" : 48.8415,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.7742,
+		"approve_hi" : 45.5031,
+		"approve_lo" : 36.0452,
+		"date" : "2018-04-13",
+		"disapprove_estimate" : 53.2091,
+		"disapprove_hi" : 57.5765,
+		"disapprove_lo" : 48.8416,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.7742,
+		"approve_hi" : 45.5031,
+		"approve_lo" : 36.0452,
+		"date" : "2018-04-14",
+		"disapprove_estimate" : 53.2091,
+		"disapprove_hi" : 57.5765,
+		"disapprove_lo" : 48.8416,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5959,
+		"approve_hi" : 45.0928,
+		"approve_lo" : 36.0989,
+		"date" : "2018-04-15",
+		"disapprove_estimate" : 53.789,
+		"disapprove_hi" : 58.1135,
+		"disapprove_lo" : 49.4645,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.7088,
+		"approve_hi" : 45.4104,
+		"approve_lo" : 36.0071,
+		"date" : "2018-04-16",
+		"disapprove_estimate" : 53.5716,
+		"disapprove_hi" : 57.9738,
+		"disapprove_lo" : 49.1693,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5929,
+		"approve_hi" : 45.1865,
+		"approve_lo" : 35.9994,
+		"date" : "2018-04-17",
+		"disapprove_estimate" : 53.832,
+		"disapprove_hi" : 58.2173,
+		"disapprove_lo" : 49.4467,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1613,
+		"approve_hi" : 44.8412,
+		"approve_lo" : 35.4813,
+		"date" : "2018-04-18",
+		"disapprove_estimate" : 54.268,
+		"disapprove_hi" : 58.4568,
+		"disapprove_lo" : 50.0791,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2132,
+		"approve_hi" : 44.8744,
+		"approve_lo" : 35.5519,
+		"date" : "2018-04-19",
+		"disapprove_estimate" : 54.2212,
+		"disapprove_hi" : 58.3259,
+		"disapprove_lo" : 50.1165,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.282,
+		"approve_hi" : 44.9393,
+		"approve_lo" : 35.6247,
+		"date" : "2018-04-20",
+		"disapprove_estimate" : 54.2861,
+		"disapprove_hi" : 58.5733,
+		"disapprove_lo" : 49.999,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.282,
+		"approve_hi" : 44.9393,
+		"approve_lo" : 35.6247,
+		"date" : "2018-04-21",
+		"disapprove_estimate" : 54.2861,
+		"disapprove_hi" : 58.5733,
+		"disapprove_lo" : 49.999,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.282,
+		"approve_hi" : 44.9393,
+		"approve_lo" : 35.6247,
+		"date" : "2018-04-22",
+		"disapprove_estimate" : 54.2861,
+		"disapprove_hi" : 58.5733,
+		"disapprove_lo" : 49.999,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1602,
+		"approve_hi" : 44.8392,
+		"approve_lo" : 35.4812,
+		"date" : "2018-04-23",
+		"disapprove_estimate" : 54.2608,
+		"disapprove_hi" : 58.5294,
+		"disapprove_lo" : 49.9923,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3438,
+		"approve_hi" : 44.8938,
+		"approve_lo" : 35.7938,
+		"date" : "2018-04-24",
+		"disapprove_estimate" : 53.9503,
+		"disapprove_hi" : 58.073,
+		"disapprove_lo" : 49.8276,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5162,
+		"approve_hi" : 45.1056,
+		"approve_lo" : 35.9267,
+		"date" : "2018-04-25",
+		"disapprove_estimate" : 53.6646,
+		"disapprove_hi" : 57.8153,
+		"disapprove_lo" : 49.5139,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5917,
+		"approve_hi" : 45.1847,
+		"approve_lo" : 35.9987,
+		"date" : "2018-04-26",
+		"disapprove_estimate" : 53.7483,
+		"disapprove_hi" : 57.8217,
+		"disapprove_lo" : 49.6749,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5987,
+		"approve_hi" : 45.2336,
+		"approve_lo" : 35.9637,
+		"date" : "2018-04-27",
+		"disapprove_estimate" : 53.7381,
+		"disapprove_hi" : 57.8195,
+		"disapprove_lo" : 49.6566,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3725,
+		"approve_hi" : 44.9965,
+		"approve_lo" : 35.7486,
+		"date" : "2018-04-28",
+		"disapprove_estimate" : 53.955,
+		"disapprove_hi" : 58.0579,
+		"disapprove_lo" : 49.8521,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3725,
+		"approve_hi" : 44.9965,
+		"approve_lo" : 35.7486,
+		"date" : "2018-04-29",
+		"disapprove_estimate" : 53.955,
+		"disapprove_hi" : 58.0579,
+		"disapprove_lo" : 49.8521,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6415,
+		"approve_hi" : 45.2683,
+		"approve_lo" : 36.0146,
+		"date" : "2018-04-30",
+		"disapprove_estimate" : 53.6685,
+		"disapprove_hi" : 57.7534,
+		"disapprove_lo" : 49.5837,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.2131,
+		"approve_hi" : 45.6155,
+		"approve_lo" : 36.8107,
+		"date" : "2018-05-01",
+		"disapprove_estimate" : 52.9431,
+		"disapprove_hi" : 57.0344,
+		"disapprove_lo" : 48.8517,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.1517,
+		"approve_hi" : 45.5846,
+		"approve_lo" : 36.7189,
+		"date" : "2018-05-02",
+		"disapprove_estimate" : 52.9179,
+		"disapprove_hi" : 57.0652,
+		"disapprove_lo" : 48.7707,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3184,
+		"approve_hi" : 45.8471,
+		"approve_lo" : 36.7897,
+		"date" : "2018-05-03",
+		"disapprove_estimate" : 52.5311,
+		"disapprove_hi" : 56.5674,
+		"disapprove_lo" : 48.4948,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4171,
+		"approve_hi" : 46.1105,
+		"approve_lo" : 36.7238,
+		"date" : "2018-05-04",
+		"disapprove_estimate" : 52.4848,
+		"disapprove_hi" : 56.5578,
+		"disapprove_lo" : 48.4118,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0897,
+		"approve_hi" : 47.0858,
+		"approve_lo" : 37.0936,
+		"date" : "2018-05-05",
+		"disapprove_estimate" : 52.0334,
+		"disapprove_hi" : 56.2298,
+		"disapprove_lo" : 47.837,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0897,
+		"approve_hi" : 47.0858,
+		"approve_lo" : 37.0936,
+		"date" : "2018-05-06",
+		"disapprove_estimate" : 52.0334,
+		"disapprove_hi" : 56.2298,
+		"disapprove_lo" : 47.837,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0173,
+		"approve_hi" : 46.8508,
+		"approve_lo" : 37.1837,
+		"date" : "2018-05-07",
+		"disapprove_estimate" : 51.9405,
+		"disapprove_hi" : 56.0437,
+		"disapprove_lo" : 47.8373,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9076,
+		"approve_hi" : 46.5938,
+		"approve_lo" : 37.2214,
+		"date" : "2018-05-08",
+		"disapprove_estimate" : 52.2529,
+		"disapprove_hi" : 56.2758,
+		"disapprove_lo" : 48.23,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8737,
+		"approve_hi" : 46.4706,
+		"approve_lo" : 37.2769,
+		"date" : "2018-05-09",
+		"disapprove_estimate" : 51.9063,
+		"disapprove_hi" : 56.462,
+		"disapprove_lo" : 47.3505,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9657,
+		"approve_hi" : 46.4264,
+		"approve_lo" : 37.505,
+		"date" : "2018-05-10",
+		"disapprove_estimate" : 52.0302,
+		"disapprove_hi" : 56.4784,
+		"disapprove_lo" : 47.582,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0257,
+		"approve_hi" : 46.5946,
+		"approve_lo" : 37.4567,
+		"date" : "2018-05-11",
+		"disapprove_estimate" : 51.9755,
+		"disapprove_hi" : 56.4869,
+		"disapprove_lo" : 47.4641,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1231,
+		"approve_hi" : 46.613,
+		"approve_lo" : 37.6331,
+		"date" : "2018-05-12",
+		"disapprove_estimate" : 52.0417,
+		"disapprove_hi" : 56.4921,
+		"disapprove_lo" : 47.5914,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1231,
+		"approve_hi" : 46.613,
+		"approve_lo" : 37.6331,
+		"date" : "2018-05-13",
+		"disapprove_estimate" : 52.0417,
+		"disapprove_hi" : 56.4921,
+		"disapprove_lo" : 47.5914,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0999,
+		"approve_hi" : 46.593,
+		"approve_lo" : 37.6068,
+		"date" : "2018-05-14",
+		"disapprove_estimate" : 52.3932,
+		"disapprove_hi" : 56.3008,
+		"disapprove_lo" : 48.4856,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3298,
+		"approve_hi" : 46.7792,
+		"approve_lo" : 37.8805,
+		"date" : "2018-05-15",
+		"disapprove_estimate" : 52.3573,
+		"disapprove_hi" : 56.1744,
+		"disapprove_lo" : 48.5403,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.148,
+		"approve_hi" : 46.6746,
+		"approve_lo" : 37.6214,
+		"date" : "2018-05-16",
+		"disapprove_estimate" : 52.4143,
+		"disapprove_hi" : 56.2226,
+		"disapprove_lo" : 48.6059,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2626,
+		"approve_hi" : 46.8418,
+		"approve_lo" : 37.6833,
+		"date" : "2018-05-17",
+		"disapprove_estimate" : 52.2713,
+		"disapprove_hi" : 56.0258,
+		"disapprove_lo" : 48.5168,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3819,
+		"approve_hi" : 47.0237,
+		"approve_lo" : 37.7402,
+		"date" : "2018-05-18",
+		"disapprove_estimate" : 52.348,
+		"disapprove_hi" : 56.1439,
+		"disapprove_lo" : 48.5522,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3819,
+		"approve_hi" : 47.0237,
+		"approve_lo" : 37.7402,
+		"date" : "2018-05-19",
+		"disapprove_estimate" : 52.348,
+		"disapprove_hi" : 56.1439,
+		"disapprove_lo" : 48.5522,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3819,
+		"approve_hi" : 47.0237,
+		"approve_lo" : 37.7402,
+		"date" : "2018-05-20",
+		"disapprove_estimate" : 52.348,
+		"disapprove_hi" : 56.1439,
+		"disapprove_lo" : 48.5522,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0174,
+		"approve_hi" : 46.7623,
+		"approve_lo" : 37.2724,
+		"date" : "2018-05-21",
+		"disapprove_estimate" : 52.6859,
+		"disapprove_hi" : 56.8475,
+		"disapprove_lo" : 48.5244,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2518,
+		"approve_hi" : 47.0888,
+		"approve_lo" : 37.4148,
+		"date" : "2018-05-22",
+		"disapprove_estimate" : 52.5926,
+		"disapprove_hi" : 56.7554,
+		"disapprove_lo" : 48.4297,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1587,
+		"approve_hi" : 47.172,
+		"approve_lo" : 37.1455,
+		"date" : "2018-05-23",
+		"disapprove_estimate" : 52.6373,
+		"disapprove_hi" : 56.824,
+		"disapprove_lo" : 48.4507,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2264,
+		"approve_hi" : 47.198,
+		"approve_lo" : 37.2549,
+		"date" : "2018-05-24",
+		"disapprove_estimate" : 52.6928,
+		"disapprove_hi" : 56.864,
+		"disapprove_lo" : 48.5216,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2581,
+		"approve_hi" : 47.255,
+		"approve_lo" : 37.2612,
+		"date" : "2018-05-25",
+		"disapprove_estimate" : 52.6294,
+		"disapprove_hi" : 56.8684,
+		"disapprove_lo" : 48.3904,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.7004,
+		"approve_hi" : 47.6094,
+		"approve_lo" : 37.7914,
+		"date" : "2018-05-26",
+		"disapprove_estimate" : 52.3301,
+		"disapprove_hi" : 56.4483,
+		"disapprove_lo" : 48.2119,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.7004,
+		"approve_hi" : 47.6094,
+		"approve_lo" : 37.7914,
+		"date" : "2018-05-27",
+		"disapprove_estimate" : 52.3301,
+		"disapprove_hi" : 56.4483,
+		"disapprove_lo" : 48.2119,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5874,
+		"approve_hi" : 47.5911,
+		"approve_lo" : 37.5836,
+		"date" : "2018-05-28",
+		"disapprove_estimate" : 52.3759,
+		"disapprove_hi" : 56.5512,
+		"disapprove_lo" : 48.2006,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4017,
+		"approve_hi" : 47.4385,
+		"approve_lo" : 37.3649,
+		"date" : "2018-05-29",
+		"disapprove_estimate" : 52.5412,
+		"disapprove_hi" : 56.6753,
+		"disapprove_lo" : 48.4071,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2995,
+		"approve_hi" : 47.3621,
+		"approve_lo" : 37.237,
+		"date" : "2018-05-30",
+		"disapprove_estimate" : 52.5071,
+		"disapprove_hi" : 56.687,
+		"disapprove_lo" : 48.3271,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.6462,
+		"approve_hi" : 46.6563,
+		"approve_lo" : 36.636,
+		"date" : "2018-05-31",
+		"disapprove_estimate" : 52.8667,
+		"disapprove_hi" : 57.0843,
+		"disapprove_lo" : 48.6492,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.6163,
+		"approve_hi" : 46.7651,
+		"approve_lo" : 36.4675,
+		"date" : "2018-06-01",
+		"disapprove_estimate" : 52.7781,
+		"disapprove_hi" : 57.0971,
+		"disapprove_lo" : 48.4592,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.6092,
+		"approve_hi" : 46.6169,
+		"approve_lo" : 36.6015,
+		"date" : "2018-06-02",
+		"disapprove_estimate" : 52.6728,
+		"disapprove_hi" : 56.8217,
+		"disapprove_lo" : 48.5239,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.6092,
+		"approve_hi" : 46.6169,
+		"approve_lo" : 36.6015,
+		"date" : "2018-06-03",
+		"disapprove_estimate" : 52.6728,
+		"disapprove_hi" : 56.8217,
+		"disapprove_lo" : 48.5239,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.6079,
+		"approve_hi" : 46.5214,
+		"approve_lo" : 36.6945,
+		"date" : "2018-06-04",
+		"disapprove_estimate" : 52.9107,
+		"disapprove_hi" : 57.3783,
+		"disapprove_lo" : 48.4431,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4149,
+		"approve_hi" : 46.3061,
+		"approve_lo" : 36.5237,
+		"date" : "2018-06-05",
+		"disapprove_estimate" : 52.9907,
+		"disapprove_hi" : 57.4432,
+		"disapprove_lo" : 48.5382,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3142,
+		"approve_hi" : 46.1762,
+		"approve_lo" : 36.4521,
+		"date" : "2018-06-06",
+		"disapprove_estimate" : 52.5613,
+		"disapprove_hi" : 56.8262,
+		"disapprove_lo" : 48.2964,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8665,
+		"approve_hi" : 46.5457,
+		"approve_lo" : 37.1874,
+		"date" : "2018-06-07",
+		"disapprove_estimate" : 52.443,
+		"disapprove_hi" : 56.4688,
+		"disapprove_lo" : 48.4171,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7763,
+		"approve_hi" : 46.3987,
+		"approve_lo" : 37.154,
+		"date" : "2018-06-08",
+		"disapprove_estimate" : 52.5376,
+		"disapprove_hi" : 56.499,
+		"disapprove_lo" : 48.5763,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.6288,
+		"approve_hi" : 46.3068,
+		"approve_lo" : 36.9509,
+		"date" : "2018-06-09",
+		"disapprove_estimate" : 52.6418,
+		"disapprove_hi" : 56.6733,
+		"disapprove_lo" : 48.6103,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.6288,
+		"approve_hi" : 46.3068,
+		"approve_lo" : 36.9509,
+		"date" : "2018-06-10",
+		"disapprove_estimate" : 52.6418,
+		"disapprove_hi" : 56.6733,
+		"disapprove_lo" : 48.6103,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.5023,
+		"approve_hi" : 46.3109,
+		"approve_lo" : 36.6937,
+		"date" : "2018-06-11",
+		"disapprove_estimate" : 52.7263,
+		"disapprove_hi" : 56.6817,
+		"disapprove_lo" : 48.771,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.5643,
+		"approve_hi" : 46.3984,
+		"approve_lo" : 36.7301,
+		"date" : "2018-06-12",
+		"disapprove_estimate" : 52.5885,
+		"disapprove_hi" : 56.4916,
+		"disapprove_lo" : 48.6855,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4306,
+		"approve_hi" : 46.3001,
+		"approve_lo" : 36.5612,
+		"date" : "2018-06-13",
+		"disapprove_estimate" : 52.5351,
+		"disapprove_hi" : 56.5451,
+		"disapprove_lo" : 48.5252,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7975,
+		"approve_hi" : 46.5555,
+		"approve_lo" : 37.0394,
+		"date" : "2018-06-14",
+		"disapprove_estimate" : 51.6924,
+		"disapprove_hi" : 56.2559,
+		"disapprove_lo" : 47.1289,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0946,
+		"approve_hi" : 46.5189,
+		"approve_lo" : 37.6703,
+		"date" : "2018-06-15",
+		"disapprove_estimate" : 51.8181,
+		"disapprove_hi" : 56.2702,
+		"disapprove_lo" : 47.3659,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0946,
+		"approve_hi" : 46.5189,
+		"approve_lo" : 37.6703,
+		"date" : "2018-06-16",
+		"disapprove_estimate" : 51.8181,
+		"disapprove_hi" : 56.2702,
+		"disapprove_lo" : 47.3659,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0946,
+		"approve_hi" : 46.5189,
+		"approve_lo" : 37.6703,
+		"date" : "2018-06-17",
+		"disapprove_estimate" : 51.8181,
+		"disapprove_hi" : 56.2702,
+		"disapprove_lo" : 47.3659,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2358,
+		"approve_hi" : 46.5857,
+		"approve_lo" : 37.8859,
+		"date" : "2018-06-18",
+		"disapprove_estimate" : 51.6195,
+		"disapprove_hi" : 55.8446,
+		"disapprove_lo" : 47.3945,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3014,
+		"approve_hi" : 46.6179,
+		"approve_lo" : 37.9849,
+		"date" : "2018-06-19",
+		"disapprove_estimate" : 51.5325,
+		"disapprove_hi" : 55.6943,
+		"disapprove_lo" : 47.3708,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5117,
+		"approve_hi" : 46.6858,
+		"approve_lo" : 38.3376,
+		"date" : "2018-06-20",
+		"disapprove_estimate" : 51.4082,
+		"disapprove_hi" : 55.6479,
+		"disapprove_lo" : 47.1685,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5653,
+		"approve_hi" : 46.7789,
+		"approve_lo" : 38.3517,
+		"date" : "2018-06-21",
+		"disapprove_estimate" : 51.3467,
+		"disapprove_hi" : 55.5159,
+		"disapprove_lo" : 47.1776,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3709,
+		"approve_hi" : 46.596,
+		"approve_lo" : 38.1459,
+		"date" : "2018-06-22",
+		"disapprove_estimate" : 51.6105,
+		"disapprove_hi" : 55.8471,
+		"disapprove_lo" : 47.3738,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3709,
+		"approve_hi" : 46.596,
+		"approve_lo" : 38.1459,
+		"date" : "2018-06-23",
+		"disapprove_estimate" : 51.6105,
+		"disapprove_hi" : 55.8471,
+		"disapprove_lo" : 47.3738,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4976,
+		"approve_hi" : 46.7284,
+		"approve_lo" : 38.2667,
+		"date" : "2018-06-24",
+		"disapprove_estimate" : 51.601,
+		"disapprove_hi" : 55.8749,
+		"disapprove_lo" : 47.3272,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2951,
+		"approve_hi" : 46.5199,
+		"approve_lo" : 38.0703,
+		"date" : "2018-06-25",
+		"disapprove_estimate" : 51.5812,
+		"disapprove_hi" : 55.9675,
+		"disapprove_lo" : 47.1948,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1926,
+		"approve_hi" : 46.282,
+		"approve_lo" : 38.1031,
+		"date" : "2018-06-26",
+		"disapprove_estimate" : 51.6839,
+		"disapprove_hi" : 55.9117,
+		"disapprove_lo" : 47.4561,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8787,
+		"approve_hi" : 46.2052,
+		"approve_lo" : 37.5523,
+		"date" : "2018-06-27",
+		"disapprove_estimate" : 52.3169,
+		"disapprove_hi" : 56.4826,
+		"disapprove_lo" : 48.1511,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8915,
+		"approve_hi" : 46.1884,
+		"approve_lo" : 37.5946,
+		"date" : "2018-06-28",
+		"disapprove_estimate" : 52.2086,
+		"disapprove_hi" : 56.3197,
+		"disapprove_lo" : 48.0975,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7561,
+		"approve_hi" : 46.1519,
+		"approve_lo" : 37.3604,
+		"date" : "2018-06-29",
+		"disapprove_estimate" : 52.3381,
+		"disapprove_hi" : 56.4686,
+		"disapprove_lo" : 48.2077,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7561,
+		"approve_hi" : 46.1519,
+		"approve_lo" : 37.3604,
+		"date" : "2018-06-30",
+		"disapprove_estimate" : 52.3381,
+		"disapprove_hi" : 56.4686,
+		"disapprove_lo" : 48.2077,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.798,
+		"approve_hi" : 46.2117,
+		"approve_lo" : 37.3844,
+		"date" : "2018-07-01",
+		"disapprove_estimate" : 52.2624,
+		"disapprove_hi" : 56.4815,
+		"disapprove_lo" : 48.0433,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.003,
+		"approve_hi" : 46.3317,
+		"approve_lo" : 37.6742,
+		"date" : "2018-07-02",
+		"disapprove_estimate" : 52.1992,
+		"disapprove_hi" : 56.2776,
+		"disapprove_lo" : 48.1209,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8368,
+		"approve_hi" : 46.1244,
+		"approve_lo" : 37.5492,
+		"date" : "2018-07-03",
+		"disapprove_estimate" : 52.5881,
+		"disapprove_hi" : 56.6161,
+		"disapprove_lo" : 48.5602,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8368,
+		"approve_hi" : 46.1244,
+		"approve_lo" : 37.5492,
+		"date" : "2018-07-04",
+		"disapprove_estimate" : 52.5881,
+		"disapprove_hi" : 56.6161,
+		"disapprove_lo" : 48.5602,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8582,
+		"approve_hi" : 46.1394,
+		"approve_lo" : 37.577,
+		"date" : "2018-07-05",
+		"disapprove_estimate" : 52.6643,
+		"disapprove_hi" : 56.7228,
+		"disapprove_lo" : 48.6058,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2434,
+		"approve_hi" : 46.3522,
+		"approve_lo" : 38.1346,
+		"date" : "2018-07-06",
+		"disapprove_estimate" : 52.88,
+		"disapprove_hi" : 56.8269,
+		"disapprove_lo" : 48.9332,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2434,
+		"approve_hi" : 46.3522,
+		"approve_lo" : 38.1346,
+		"date" : "2018-07-07",
+		"disapprove_estimate" : 52.88,
+		"disapprove_hi" : 56.8269,
+		"disapprove_lo" : 48.9332,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.203,
+		"approve_hi" : 46.3572,
+		"approve_lo" : 38.0489,
+		"date" : "2018-07-08",
+		"disapprove_estimate" : 52.9597,
+		"disapprove_hi" : 56.9338,
+		"disapprove_lo" : 48.9856,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1382,
+		"approve_hi" : 46.1828,
+		"approve_lo" : 38.0936,
+		"date" : "2018-07-09",
+		"disapprove_estimate" : 52.8242,
+		"disapprove_hi" : 56.902,
+		"disapprove_lo" : 48.7464,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8686,
+		"approve_hi" : 46.0481,
+		"approve_lo" : 37.6891,
+		"date" : "2018-07-10",
+		"disapprove_estimate" : 52.9706,
+		"disapprove_hi" : 57.3704,
+		"disapprove_lo" : 48.5707,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9629,
+		"approve_hi" : 46.1804,
+		"approve_lo" : 37.7453,
+		"date" : "2018-07-11",
+		"disapprove_estimate" : 52.8864,
+		"disapprove_hi" : 57.3314,
+		"disapprove_lo" : 48.4414,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2897,
+		"approve_hi" : 46.5306,
+		"approve_lo" : 38.0488,
+		"date" : "2018-07-12",
+		"disapprove_estimate" : 52.7488,
+		"disapprove_hi" : 57.0665,
+		"disapprove_lo" : 48.431,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0644,
+		"approve_hi" : 46.4306,
+		"approve_lo" : 37.6983,
+		"date" : "2018-07-13",
+		"disapprove_estimate" : 52.9017,
+		"disapprove_hi" : 57.2522,
+		"disapprove_lo" : 48.5512,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0318,
+		"approve_hi" : 46.4673,
+		"approve_lo" : 37.5963,
+		"date" : "2018-07-14",
+		"disapprove_estimate" : 53.0067,
+		"disapprove_hi" : 57.3289,
+		"disapprove_lo" : 48.6845,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0318,
+		"approve_hi" : 46.4673,
+		"approve_lo" : 37.5963,
+		"date" : "2018-07-15",
+		"disapprove_estimate" : 53.0067,
+		"disapprove_hi" : 57.3289,
+		"disapprove_lo" : 48.6845,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1224,
+		"approve_hi" : 46.4628,
+		"approve_lo" : 37.7821,
+		"date" : "2018-07-16",
+		"disapprove_estimate" : 52.8128,
+		"disapprove_hi" : 57.0606,
+		"disapprove_lo" : 48.565,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0509,
+		"approve_hi" : 46.3856,
+		"approve_lo" : 37.7162,
+		"date" : "2018-07-17",
+		"disapprove_estimate" : 52.6681,
+		"disapprove_hi" : 56.7921,
+		"disapprove_lo" : 48.5442,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7602,
+		"approve_hi" : 46.0029,
+		"approve_lo" : 37.5175,
+		"date" : "2018-07-18",
+		"disapprove_estimate" : 52.837,
+		"disapprove_hi" : 56.853,
+		"disapprove_lo" : 48.8211,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7859,
+		"approve_hi" : 46.0214,
+		"approve_lo" : 37.5504,
+		"date" : "2018-07-19",
+		"disapprove_estimate" : 52.8283,
+		"disapprove_hi" : 56.8654,
+		"disapprove_lo" : 48.7912,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7853,
+		"approve_hi" : 45.8685,
+		"approve_lo" : 37.702,
+		"date" : "2018-07-20",
+		"disapprove_estimate" : 52.7425,
+		"disapprove_hi" : 56.6959,
+		"disapprove_lo" : 48.7891,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7168,
+		"approve_hi" : 45.8941,
+		"approve_lo" : 37.5395,
+		"date" : "2018-07-21",
+		"disapprove_estimate" : 52.8726,
+		"disapprove_hi" : 56.8269,
+		"disapprove_lo" : 48.9183,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9939,
+		"approve_hi" : 46.1358,
+		"approve_lo" : 37.852,
+		"date" : "2018-07-22",
+		"disapprove_estimate" : 52.8179,
+		"disapprove_hi" : 56.6542,
+		"disapprove_lo" : 48.9816,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7831,
+		"approve_hi" : 46.1487,
+		"approve_lo" : 37.4175,
+		"date" : "2018-07-23",
+		"disapprove_estimate" : 52.8576,
+		"disapprove_hi" : 56.8297,
+		"disapprove_lo" : 48.8855,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3747,
+		"approve_hi" : 45.8231,
+		"approve_lo" : 36.9264,
+		"date" : "2018-07-24",
+		"disapprove_estimate" : 53.3551,
+		"disapprove_hi" : 57.5833,
+		"disapprove_lo" : 49.1269,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3385,
+		"approve_hi" : 45.9213,
+		"approve_lo" : 36.7558,
+		"date" : "2018-07-25",
+		"disapprove_estimate" : 53.0346,
+		"disapprove_hi" : 57.1069,
+		"disapprove_lo" : 48.9623,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.2835,
+		"approve_hi" : 45.8732,
+		"approve_lo" : 36.6938,
+		"date" : "2018-07-26",
+		"disapprove_estimate" : 53.0233,
+		"disapprove_hi" : 57.1249,
+		"disapprove_lo" : 48.9218,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4791,
+		"approve_hi" : 46.0482,
+		"approve_lo" : 36.9101,
+		"date" : "2018-07-27",
+		"disapprove_estimate" : 52.9919,
+		"disapprove_hi" : 57.0739,
+		"disapprove_lo" : 48.91,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4791,
+		"approve_hi" : 46.0482,
+		"approve_lo" : 36.9101,
+		"date" : "2018-07-28",
+		"disapprove_estimate" : 52.9919,
+		"disapprove_hi" : 57.0739,
+		"disapprove_lo" : 48.91,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.2066,
+		"approve_hi" : 45.7105,
+		"approve_lo" : 36.7027,
+		"date" : "2018-07-29",
+		"disapprove_estimate" : 53.1672,
+		"disapprove_hi" : 57.2835,
+		"disapprove_lo" : 49.0509,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3045,
+		"approve_hi" : 45.854,
+		"approve_lo" : 36.7551,
+		"date" : "2018-07-30",
+		"disapprove_estimate" : 52.9963,
+		"disapprove_hi" : 57.1677,
+		"disapprove_lo" : 48.8248,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4134,
+		"approve_hi" : 45.9413,
+		"approve_lo" : 36.8854,
+		"date" : "2018-07-31",
+		"disapprove_estimate" : 52.8578,
+		"disapprove_hi" : 56.9748,
+		"disapprove_lo" : 48.7409,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.299,
+		"approve_hi" : 45.8325,
+		"approve_lo" : 36.7655,
+		"date" : "2018-08-01",
+		"disapprove_estimate" : 52.9095,
+		"disapprove_hi" : 56.9516,
+		"disapprove_lo" : 48.8675,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4342,
+		"approve_hi" : 46.1654,
+		"approve_lo" : 36.7029,
+		"date" : "2018-08-02",
+		"disapprove_estimate" : 52.8118,
+		"disapprove_hi" : 56.9139,
+		"disapprove_lo" : 48.7098,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4345,
+		"approve_hi" : 46.0042,
+		"approve_lo" : 36.8648,
+		"date" : "2018-08-03",
+		"disapprove_estimate" : 52.8048,
+		"disapprove_hi" : 56.8187,
+		"disapprove_lo" : 48.7909,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4345,
+		"approve_hi" : 46.0042,
+		"approve_lo" : 36.8648,
+		"date" : "2018-08-04",
+		"disapprove_estimate" : 52.8048,
+		"disapprove_hi" : 56.8187,
+		"disapprove_lo" : 48.7909,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4345,
+		"approve_hi" : 46.0042,
+		"approve_lo" : 36.8648,
+		"date" : "2018-08-05",
+		"disapprove_estimate" : 52.8048,
+		"disapprove_hi" : 56.8187,
+		"disapprove_lo" : 48.7909,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4671,
+		"approve_hi" : 45.9493,
+		"approve_lo" : 36.9849,
+		"date" : "2018-08-06",
+		"disapprove_estimate" : 52.7219,
+		"disapprove_hi" : 56.6725,
+		"disapprove_lo" : 48.7714,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4506,
+		"approve_hi" : 45.9306,
+		"approve_lo" : 36.9706,
+		"date" : "2018-08-07",
+		"disapprove_estimate" : 52.666,
+		"disapprove_hi" : 56.5434,
+		"disapprove_lo" : 48.7886,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7121,
+		"approve_hi" : 46.5382,
+		"approve_lo" : 36.8861,
+		"date" : "2018-08-08",
+		"disapprove_estimate" : 52.4597,
+		"disapprove_hi" : 56.3418,
+		"disapprove_lo" : 48.5775,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9196,
+		"approve_hi" : 46.7092,
+		"approve_lo" : 37.13,
+		"date" : "2018-08-09",
+		"disapprove_estimate" : 52.3918,
+		"disapprove_hi" : 56.2013,
+		"disapprove_lo" : 48.5824,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9125,
+		"approve_hi" : 46.6146,
+		"approve_lo" : 37.2104,
+		"date" : "2018-08-10",
+		"disapprove_estimate" : 52.49,
+		"disapprove_hi" : 56.2905,
+		"disapprove_lo" : 48.6896,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9125,
+		"approve_hi" : 46.6146,
+		"approve_lo" : 37.2104,
+		"date" : "2018-08-11",
+		"disapprove_estimate" : 52.49,
+		"disapprove_hi" : 56.2905,
+		"disapprove_lo" : 48.6896,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9125,
+		"approve_hi" : 46.6146,
+		"approve_lo" : 37.2104,
+		"date" : "2018-08-12",
+		"disapprove_estimate" : 52.49,
+		"disapprove_hi" : 56.2905,
+		"disapprove_lo" : 48.6896,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8187,
+		"approve_hi" : 46.6987,
+		"approve_lo" : 36.9387,
+		"date" : "2018-08-13",
+		"disapprove_estimate" : 52.5466,
+		"disapprove_hi" : 56.5462,
+		"disapprove_lo" : 48.5469,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2053,
+		"approve_hi" : 46.8749,
+		"approve_lo" : 37.5356,
+		"date" : "2018-08-14",
+		"disapprove_estimate" : 52.3893,
+		"disapprove_hi" : 56.1979,
+		"disapprove_lo" : 48.5807,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0549,
+		"approve_hi" : 46.6418,
+		"approve_lo" : 37.4679,
+		"date" : "2018-08-15",
+		"disapprove_estimate" : 52.4433,
+		"disapprove_hi" : 56.3279,
+		"disapprove_lo" : 48.5587,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1124,
+		"approve_hi" : 46.7309,
+		"approve_lo" : 37.4938,
+		"date" : "2018-08-16",
+		"disapprove_estimate" : 52.4395,
+		"disapprove_hi" : 56.305,
+		"disapprove_lo" : 48.574,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9737,
+		"approve_hi" : 46.6714,
+		"approve_lo" : 37.276,
+		"date" : "2018-08-17",
+		"disapprove_estimate" : 52.5411,
+		"disapprove_hi" : 56.3773,
+		"disapprove_lo" : 48.705,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9737,
+		"approve_hi" : 46.6714,
+		"approve_lo" : 37.276,
+		"date" : "2018-08-18",
+		"disapprove_estimate" : 52.5411,
+		"disapprove_hi" : 56.3773,
+		"disapprove_lo" : 48.705,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9737,
+		"approve_hi" : 46.6714,
+		"approve_lo" : 37.276,
+		"date" : "2018-08-19",
+		"disapprove_estimate" : 52.5411,
+		"disapprove_hi" : 56.3773,
+		"disapprove_lo" : 48.705,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2604,
+		"approve_hi" : 46.7523,
+		"approve_lo" : 37.7685,
+		"date" : "2018-08-20",
+		"disapprove_estimate" : 52.3393,
+		"disapprove_hi" : 56.0821,
+		"disapprove_lo" : 48.5965,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7751,
+		"approve_hi" : 46.5346,
+		"approve_lo" : 37.0155,
+		"date" : "2018-08-21",
+		"disapprove_estimate" : 52.7854,
+		"disapprove_hi" : 57.1305,
+		"disapprove_lo" : 48.4403,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1254,
+		"approve_hi" : 46.7483,
+		"approve_lo" : 37.5024,
+		"date" : "2018-08-22",
+		"disapprove_estimate" : 52.9147,
+		"disapprove_hi" : 56.9616,
+		"disapprove_lo" : 48.8678,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0897,
+		"approve_hi" : 46.6622,
+		"approve_lo" : 37.5172,
+		"date" : "2018-08-23",
+		"disapprove_estimate" : 52.9692,
+		"disapprove_hi" : 57.1595,
+		"disapprove_lo" : 48.7789,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.466,
+		"approve_hi" : 46.1384,
+		"approve_lo" : 36.7935,
+		"date" : "2018-08-24",
+		"disapprove_estimate" : 53.5682,
+		"disapprove_hi" : 58.0645,
+		"disapprove_lo" : 49.0719,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.466,
+		"approve_hi" : 46.1384,
+		"approve_lo" : 36.7935,
+		"date" : "2018-08-25",
+		"disapprove_estimate" : 53.5682,
+		"disapprove_hi" : 58.0645,
+		"disapprove_lo" : 49.0719,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8865,
+		"approve_hi" : 46.4979,
+		"approve_lo" : 37.2751,
+		"date" : "2018-08-26",
+		"disapprove_estimate" : 53.3716,
+		"disapprove_hi" : 57.7616,
+		"disapprove_lo" : 48.9815,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8685,
+		"approve_hi" : 46.3793,
+		"approve_lo" : 37.3576,
+		"date" : "2018-08-27",
+		"disapprove_estimate" : 53.3843,
+		"disapprove_hi" : 57.6692,
+		"disapprove_lo" : 49.0993,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3774,
+		"approve_hi" : 46.0599,
+		"approve_lo" : 36.6949,
+		"date" : "2018-08-28",
+		"disapprove_estimate" : 53.6312,
+		"disapprove_hi" : 57.8998,
+		"disapprove_lo" : 49.3626,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4462,
+		"approve_hi" : 46.2457,
+		"approve_lo" : 36.6467,
+		"date" : "2018-08-29",
+		"disapprove_estimate" : 53.6285,
+		"disapprove_hi" : 57.9216,
+		"disapprove_lo" : 49.3355,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.5049,
+		"approve_hi" : 46.3314,
+		"approve_lo" : 36.6784,
+		"date" : "2018-08-30",
+		"disapprove_estimate" : 53.5397,
+		"disapprove_hi" : 57.8344,
+		"disapprove_lo" : 49.2449,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2538,
+		"approve_hi" : 45.5011,
+		"approve_lo" : 35.0064,
+		"date" : "2018-08-31",
+		"disapprove_estimate" : 54.465,
+		"disapprove_hi" : 59.1484,
+		"disapprove_lo" : 49.7817,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2538,
+		"approve_hi" : 45.5011,
+		"approve_lo" : 35.0064,
+		"date" : "2018-09-01",
+		"disapprove_estimate" : 54.465,
+		"disapprove_hi" : 59.1484,
+		"disapprove_lo" : 49.7817,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.2538,
+		"approve_hi" : 45.5011,
+		"approve_lo" : 35.0064,
+		"date" : "2018-09-02",
+		"disapprove_estimate" : 54.465,
+		"disapprove_hi" : 59.1484,
+		"disapprove_lo" : 49.7817,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.0597,
+		"approve_hi" : 45.193,
+		"approve_lo" : 34.9264,
+		"date" : "2018-09-03",
+		"disapprove_estimate" : 54.1273,
+		"disapprove_hi" : 58.6029,
+		"disapprove_lo" : 49.6517,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.0554,
+		"approve_hi" : 45.1895,
+		"approve_lo" : 34.9213,
+		"date" : "2018-09-04",
+		"disapprove_estimate" : 54.1169,
+		"disapprove_hi" : 58.6174,
+		"disapprove_lo" : 49.6164,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.8979,
+		"approve_hi" : 44.9106,
+		"approve_lo" : 34.8853,
+		"date" : "2018-09-05",
+		"disapprove_estimate" : 53.7274,
+		"disapprove_hi" : 58.2196,
+		"disapprove_lo" : 49.2353,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1828,
+		"approve_hi" : 45.2274,
+		"approve_lo" : 35.1382,
+		"date" : "2018-09-06",
+		"disapprove_estimate" : 53.6234,
+		"disapprove_hi" : 58.1518,
+		"disapprove_lo" : 49.0951,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3293,
+		"approve_hi" : 45.4657,
+		"approve_lo" : 35.193,
+		"date" : "2018-09-07",
+		"disapprove_estimate" : 53.5564,
+		"disapprove_hi" : 58.072,
+		"disapprove_lo" : 49.0408,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5738,
+		"approve_hi" : 45.8072,
+		"approve_lo" : 35.3404,
+		"date" : "2018-09-08",
+		"disapprove_estimate" : 53.425,
+		"disapprove_hi" : 57.9054,
+		"disapprove_lo" : 48.9445,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.5738,
+		"approve_hi" : 45.8072,
+		"approve_lo" : 35.3404,
+		"date" : "2018-09-09",
+		"disapprove_estimate" : 53.425,
+		"disapprove_hi" : 57.9054,
+		"disapprove_lo" : 48.9445,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.9534,
+		"approve_hi" : 45.1875,
+		"approve_lo" : 34.7192,
+		"date" : "2018-09-10",
+		"disapprove_estimate" : 53.708,
+		"disapprove_hi" : 58.117,
+		"disapprove_lo" : 49.299,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.9963,
+		"approve_hi" : 45.0944,
+		"approve_lo" : 34.8983,
+		"date" : "2018-09-11",
+		"disapprove_estimate" : 53.5033,
+		"disapprove_hi" : 57.8149,
+		"disapprove_lo" : 49.1918,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.8793,
+		"approve_hi" : 44.7432,
+		"approve_lo" : 35.0154,
+		"date" : "2018-09-12",
+		"disapprove_estimate" : 53.6591,
+		"disapprove_hi" : 57.9454,
+		"disapprove_lo" : 49.3728,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.869,
+		"approve_hi" : 44.768,
+		"approve_lo" : 34.9701,
+		"date" : "2018-09-13",
+		"disapprove_estimate" : 53.7475,
+		"disapprove_hi" : 58.014,
+		"disapprove_lo" : 49.481,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 39.9229,
+		"approve_hi" : 44.8615,
+		"approve_lo" : 34.9843,
+		"date" : "2018-09-14",
+		"disapprove_estimate" : 53.6974,
+		"disapprove_hi" : 57.9628,
+		"disapprove_lo" : 49.432,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1571,
+		"approve_hi" : 45.2083,
+		"approve_lo" : 35.1059,
+		"date" : "2018-09-15",
+		"disapprove_estimate" : 53.6185,
+		"disapprove_hi" : 57.8273,
+		"disapprove_lo" : 49.4096,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1571,
+		"approve_hi" : 45.2083,
+		"approve_lo" : 35.1059,
+		"date" : "2018-09-16",
+		"disapprove_estimate" : 53.6185,
+		"disapprove_hi" : 57.8273,
+		"disapprove_lo" : 49.4096,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.1413,
+		"approve_hi" : 45.336,
+		"approve_lo" : 34.9466,
+		"date" : "2018-09-17",
+		"disapprove_estimate" : 53.6737,
+		"disapprove_hi" : 57.9313,
+		"disapprove_lo" : 49.4161,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3781,
+		"approve_hi" : 45.3892,
+		"approve_lo" : 35.367,
+		"date" : "2018-09-18",
+		"disapprove_estimate" : 53.7867,
+		"disapprove_hi" : 58.0267,
+		"disapprove_lo" : 49.5466,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.3452,
+		"approve_hi" : 45.296,
+		"approve_lo" : 35.3945,
+		"date" : "2018-09-19",
+		"disapprove_estimate" : 53.8038,
+		"disapprove_hi" : 57.9978,
+		"disapprove_lo" : 49.6098,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4597,
+		"approve_hi" : 45.5027,
+		"approve_lo" : 35.4168,
+		"date" : "2018-09-20",
+		"disapprove_estimate" : 53.6442,
+		"disapprove_hi" : 57.8705,
+		"disapprove_lo" : 49.4179,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.4806,
+		"approve_hi" : 45.6143,
+		"approve_lo" : 35.3469,
+		"date" : "2018-09-21",
+		"disapprove_estimate" : 53.8432,
+		"disapprove_hi" : 58.2945,
+		"disapprove_lo" : 49.3918,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 40.6116,
+		"approve_hi" : 45.7059,
+		"approve_lo" : 35.5173,
+		"date" : "2018-09-22",
+		"disapprove_estimate" : 53.7877,
+		"disapprove_hi" : 58.3432,
+		"disapprove_lo" : 49.2322,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.2412,
+		"approve_hi" : 46.1587,
+		"approve_lo" : 36.3237,
+		"date" : "2018-09-23",
+		"disapprove_estimate" : 53.4798,
+		"disapprove_hi" : 57.8288,
+		"disapprove_lo" : 49.1308,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.2966,
+		"approve_hi" : 46.2831,
+		"approve_lo" : 36.3102,
+		"date" : "2018-09-24",
+		"disapprove_estimate" : 53.4105,
+		"disapprove_hi" : 57.766,
+		"disapprove_lo" : 49.0551,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3996,
+		"approve_hi" : 46.2105,
+		"approve_lo" : 36.5887,
+		"date" : "2018-09-25",
+		"disapprove_estimate" : 53.1816,
+		"disapprove_hi" : 57.3816,
+		"disapprove_lo" : 48.9815,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3731,
+		"approve_hi" : 45.9831,
+		"approve_lo" : 36.763,
+		"date" : "2018-09-26",
+		"disapprove_estimate" : 52.7845,
+		"disapprove_hi" : 57.0583,
+		"disapprove_lo" : 48.5107,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.3852,
+		"approve_hi" : 46.006,
+		"approve_lo" : 36.7644,
+		"date" : "2018-09-27",
+		"disapprove_estimate" : 52.8104,
+		"disapprove_hi" : 57.0473,
+		"disapprove_lo" : 48.5735,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4745,
+		"approve_hi" : 46.124,
+		"approve_lo" : 36.825,
+		"date" : "2018-09-28",
+		"disapprove_estimate" : 52.7534,
+		"disapprove_hi" : 57.0164,
+		"disapprove_lo" : 48.4904,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.5109,
+		"approve_hi" : 46.2695,
+		"approve_lo" : 36.7522,
+		"date" : "2018-09-29",
+		"disapprove_estimate" : 52.6635,
+		"disapprove_hi" : 56.9227,
+		"disapprove_lo" : 48.4042,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.5109,
+		"approve_hi" : 46.2695,
+		"approve_lo" : 36.7522,
+		"date" : "2018-09-30",
+		"disapprove_estimate" : 52.6635,
+		"disapprove_hi" : 56.9227,
+		"disapprove_lo" : 48.4042,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7725,
+		"approve_hi" : 46.3917,
+		"approve_lo" : 37.1533,
+		"date" : "2018-10-01",
+		"disapprove_estimate" : 52.6786,
+		"disapprove_hi" : 56.7047,
+		"disapprove_lo" : 48.6525,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8219,
+		"approve_hi" : 46.2437,
+		"approve_lo" : 37.4001,
+		"date" : "2018-10-02",
+		"disapprove_estimate" : 52.4287,
+		"disapprove_hi" : 56.2542,
+		"disapprove_lo" : 48.6032,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8768,
+		"approve_hi" : 46.3225,
+		"approve_lo" : 37.4311,
+		"date" : "2018-10-03",
+		"disapprove_estimate" : 52.6498,
+		"disapprove_hi" : 56.3367,
+		"disapprove_lo" : 48.9629,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1202,
+		"approve_hi" : 46.6475,
+		"approve_lo" : 37.5928,
+		"date" : "2018-10-04",
+		"disapprove_estimate" : 52.423,
+		"disapprove_hi" : 56.1455,
+		"disapprove_lo" : 48.7006,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1723,
+		"approve_hi" : 46.7091,
+		"approve_lo" : 37.6355,
+		"date" : "2018-10-05",
+		"disapprove_estimate" : 52.1777,
+		"disapprove_hi" : 55.9686,
+		"disapprove_lo" : 48.3868,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3773,
+		"approve_hi" : 47.0797,
+		"approve_lo" : 37.675,
+		"date" : "2018-10-06",
+		"disapprove_estimate" : 52.0429,
+		"disapprove_hi" : 55.8102,
+		"disapprove_lo" : 48.2756,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3267,
+		"approve_hi" : 47.0474,
+		"approve_lo" : 37.606,
+		"date" : "2018-10-07",
+		"disapprove_estimate" : 52.2066,
+		"disapprove_hi" : 55.978,
+		"disapprove_lo" : 48.4352,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4774,
+		"approve_hi" : 47.1032,
+		"approve_lo" : 37.8516,
+		"date" : "2018-10-08",
+		"disapprove_estimate" : 51.9607,
+		"disapprove_hi" : 55.6751,
+		"disapprove_lo" : 48.2464,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0372,
+		"approve_hi" : 46.8301,
+		"approve_lo" : 37.2444,
+		"date" : "2018-10-09",
+		"disapprove_estimate" : 52.1872,
+		"disapprove_hi" : 55.9885,
+		"disapprove_lo" : 48.386,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7053,
+		"approve_hi" : 46.4092,
+		"approve_lo" : 37.0014,
+		"date" : "2018-10-10",
+		"disapprove_estimate" : 52.5591,
+		"disapprove_hi" : 56.3974,
+		"disapprove_lo" : 48.7207,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8218,
+		"approve_hi" : 46.5939,
+		"approve_lo" : 37.0497,
+		"date" : "2018-10-11",
+		"disapprove_estimate" : 52.5342,
+		"disapprove_hi" : 56.3566,
+		"disapprove_lo" : 48.7119,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7736,
+		"approve_hi" : 46.5652,
+		"approve_lo" : 36.982,
+		"date" : "2018-10-12",
+		"disapprove_estimate" : 52.5428,
+		"disapprove_hi" : 56.4062,
+		"disapprove_lo" : 48.6794,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7905,
+		"approve_hi" : 46.5692,
+		"approve_lo" : 37.0118,
+		"date" : "2018-10-13",
+		"disapprove_estimate" : 52.6078,
+		"disapprove_hi" : 56.4414,
+		"disapprove_lo" : 48.7741,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.779,
+		"approve_hi" : 46.385,
+		"approve_lo" : 37.173,
+		"date" : "2018-10-14",
+		"disapprove_estimate" : 52.594,
+		"disapprove_hi" : 56.3374,
+		"disapprove_lo" : 48.8506,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0243,
+		"approve_hi" : 46.7291,
+		"approve_lo" : 37.3196,
+		"date" : "2018-10-15",
+		"disapprove_estimate" : 52.2367,
+		"disapprove_hi" : 56.5508,
+		"disapprove_lo" : 47.9225,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9318,
+		"approve_hi" : 46.7636,
+		"approve_lo" : 37.1,
+		"date" : "2018-10-16",
+		"disapprove_estimate" : 52.3923,
+		"disapprove_hi" : 56.7966,
+		"disapprove_lo" : 47.988,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.6223,
+		"approve_hi" : 47.3328,
+		"approve_lo" : 37.9118,
+		"date" : "2018-10-17",
+		"disapprove_estimate" : 52.1101,
+		"disapprove_hi" : 56.2536,
+		"disapprove_lo" : 47.9665,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5928,
+		"approve_hi" : 47.2041,
+		"approve_lo" : 37.9816,
+		"date" : "2018-10-18",
+		"disapprove_estimate" : 52.1712,
+		"disapprove_hi" : 56.2402,
+		"disapprove_lo" : 48.1022,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2121,
+		"approve_hi" : 46.8537,
+		"approve_lo" : 37.5704,
+		"date" : "2018-10-19",
+		"disapprove_estimate" : 52.3761,
+		"disapprove_hi" : 56.6256,
+		"disapprove_lo" : 48.1267,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.261,
+		"approve_hi" : 46.9631,
+		"approve_lo" : 37.5589,
+		"date" : "2018-10-20",
+		"disapprove_estimate" : 52.4538,
+		"disapprove_hi" : 56.6693,
+		"disapprove_lo" : 48.2382,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.6729,
+		"approve_hi" : 47.4327,
+		"approve_lo" : 37.9131,
+		"date" : "2018-10-21",
+		"disapprove_estimate" : 52.1644,
+		"disapprove_hi" : 56.4482,
+		"disapprove_lo" : 47.8806,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 43.1078,
+		"approve_hi" : 47.7446,
+		"approve_lo" : 38.4711,
+		"date" : "2018-10-22",
+		"disapprove_estimate" : 52.0053,
+		"disapprove_hi" : 56.1813,
+		"disapprove_lo" : 47.8293,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 43.0744,
+		"approve_hi" : 47.7621,
+		"approve_lo" : 38.3867,
+		"date" : "2018-10-23",
+		"disapprove_estimate" : 51.9922,
+		"disapprove_hi" : 56.1598,
+		"disapprove_lo" : 47.8246,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.8027,
+		"approve_hi" : 47.327,
+		"approve_lo" : 38.2783,
+		"date" : "2018-10-24",
+		"disapprove_estimate" : 51.9563,
+		"disapprove_hi" : 55.9701,
+		"disapprove_lo" : 47.9425,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.7653,
+		"approve_hi" : 47.3288,
+		"approve_lo" : 38.2018,
+		"date" : "2018-10-25",
+		"disapprove_estimate" : 52.1888,
+		"disapprove_hi" : 56.173,
+		"disapprove_lo" : 48.2046,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3963,
+		"approve_hi" : 47.0293,
+		"approve_lo" : 37.7633,
+		"date" : "2018-10-26",
+		"disapprove_estimate" : 52.4744,
+		"disapprove_hi" : 56.3549,
+		"disapprove_lo" : 48.5939,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4463,
+		"approve_hi" : 47.1021,
+		"approve_lo" : 37.7904,
+		"date" : "2018-10-27",
+		"disapprove_estimate" : 52.4746,
+		"disapprove_hi" : 56.3144,
+		"disapprove_lo" : 48.6348,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4408,
+		"approve_hi" : 47.1151,
+		"approve_lo" : 37.7665,
+		"date" : "2018-10-28",
+		"disapprove_estimate" : 52.4867,
+		"disapprove_hi" : 56.3393,
+		"disapprove_lo" : 48.634,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3738,
+		"approve_hi" : 47.1023,
+		"approve_lo" : 37.6453,
+		"date" : "2018-10-29",
+		"disapprove_estimate" : 52.9166,
+		"disapprove_hi" : 56.9388,
+		"disapprove_lo" : 48.8944,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2276,
+		"approve_hi" : 46.8797,
+		"approve_lo" : 37.5755,
+		"date" : "2018-10-30",
+		"disapprove_estimate" : 53.0704,
+		"disapprove_hi" : 57.0518,
+		"disapprove_lo" : 49.089,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0051,
+		"approve_hi" : 46.5858,
+		"approve_lo" : 37.4244,
+		"date" : "2018-10-31",
+		"disapprove_estimate" : 53.3247,
+		"disapprove_hi" : 57.2653,
+		"disapprove_lo" : 49.3842,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9981,
+		"approve_hi" : 46.4916,
+		"approve_lo" : 37.5046,
+		"date" : "2018-11-01",
+		"disapprove_estimate" : 53.1695,
+		"disapprove_hi" : 57.0467,
+		"disapprove_lo" : 49.2923,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.109,
+		"approve_hi" : 46.7696,
+		"approve_lo" : 37.4483,
+		"date" : "2018-11-02",
+		"disapprove_estimate" : 52.9453,
+		"disapprove_hi" : 56.9875,
+		"disapprove_lo" : 48.9031,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1249,
+		"approve_hi" : 46.8059,
+		"approve_lo" : 37.4439,
+		"date" : "2018-11-03",
+		"disapprove_estimate" : 52.9868,
+		"disapprove_hi" : 57.0198,
+		"disapprove_lo" : 48.9538,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2269,
+		"approve_hi" : 46.8183,
+		"approve_lo" : 37.6355,
+		"date" : "2018-11-04",
+		"disapprove_estimate" : 52.6349,
+		"disapprove_hi" : 56.3553,
+		"disapprove_lo" : 48.9146,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8655,
+		"approve_hi" : 46.444,
+		"approve_lo" : 37.2871,
+		"date" : "2018-11-05",
+		"disapprove_estimate" : 52.8154,
+		"disapprove_hi" : 56.4479,
+		"disapprove_lo" : 49.1829,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8163,
+		"approve_hi" : 46.3454,
+		"approve_lo" : 37.2872,
+		"date" : "2018-11-06",
+		"disapprove_estimate" : 52.8186,
+		"disapprove_hi" : 56.427,
+		"disapprove_lo" : 49.2103,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9674,
+		"approve_hi" : 46.4662,
+		"approve_lo" : 37.4686,
+		"date" : "2018-11-07",
+		"disapprove_estimate" : 52.4322,
+		"disapprove_hi" : 56.0763,
+		"disapprove_lo" : 48.788,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0483,
+		"approve_hi" : 46.5991,
+		"approve_lo" : 37.4976,
+		"date" : "2018-11-08",
+		"disapprove_estimate" : 52.3914,
+		"disapprove_hi" : 56.0356,
+		"disapprove_lo" : 48.7471,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1634,
+		"approve_hi" : 46.7549,
+		"approve_lo" : 37.5719,
+		"date" : "2018-11-09",
+		"disapprove_estimate" : 52.4832,
+		"disapprove_hi" : 56.1633,
+		"disapprove_lo" : 48.8032,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1634,
+		"approve_hi" : 46.7549,
+		"approve_lo" : 37.5719,
+		"date" : "2018-11-10",
+		"disapprove_estimate" : 52.4832,
+		"disapprove_hi" : 56.1633,
+		"disapprove_lo" : 48.8032,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1634,
+		"approve_hi" : 46.7549,
+		"approve_lo" : 37.5719,
+		"date" : "2018-11-11",
+		"disapprove_estimate" : 52.4832,
+		"disapprove_hi" : 56.1633,
+		"disapprove_lo" : 48.8032,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8031,
+		"approve_hi" : 46.4307,
+		"approve_lo" : 37.1755,
+		"date" : "2018-11-12",
+		"disapprove_estimate" : 52.6801,
+		"disapprove_hi" : 56.4587,
+		"disapprove_lo" : 48.9015,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.7586,
+		"approve_hi" : 46.2966,
+		"approve_lo" : 37.2205,
+		"date" : "2018-11-13",
+		"disapprove_estimate" : 52.7647,
+		"disapprove_hi" : 56.5009,
+		"disapprove_lo" : 49.0285,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0104,
+		"approve_hi" : 46.3142,
+		"approve_lo" : 37.7066,
+		"date" : "2018-11-14",
+		"disapprove_estimate" : 52.6721,
+		"disapprove_hi" : 56.6265,
+		"disapprove_lo" : 48.7178,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.42,
+		"approve_hi" : 46.7601,
+		"approve_lo" : 38.08,
+		"date" : "2018-11-15",
+		"disapprove_estimate" : 53.0212,
+		"disapprove_hi" : 57.3292,
+		"disapprove_lo" : 48.7132,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4588,
+		"approve_hi" : 46.8839,
+		"approve_lo" : 38.0338,
+		"date" : "2018-11-16",
+		"disapprove_estimate" : 53.0445,
+		"disapprove_hi" : 57.3742,
+		"disapprove_lo" : 48.7149,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4588,
+		"approve_hi" : 46.8839,
+		"approve_lo" : 38.0338,
+		"date" : "2018-11-17",
+		"disapprove_estimate" : 53.0445,
+		"disapprove_hi" : 57.3742,
+		"disapprove_lo" : 48.7149,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4842,
+		"approve_hi" : 46.9326,
+		"approve_lo" : 38.0359,
+		"date" : "2018-11-18",
+		"disapprove_estimate" : 53.0301,
+		"disapprove_hi" : 57.2994,
+		"disapprove_lo" : 48.7608,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.7664,
+		"approve_hi" : 47.2021,
+		"approve_lo" : 38.3306,
+		"date" : "2018-11-19",
+		"disapprove_estimate" : 52.7082,
+		"disapprove_hi" : 56.9315,
+		"disapprove_lo" : 48.4848,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4017,
+		"approve_hi" : 46.8345,
+		"approve_lo" : 37.9689,
+		"date" : "2018-11-20",
+		"disapprove_estimate" : 52.9818,
+		"disapprove_hi" : 57.0543,
+		"disapprove_lo" : 48.9093,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.8721,
+		"approve_hi" : 47.3023,
+		"approve_lo" : 38.4419,
+		"date" : "2018-11-21",
+		"disapprove_estimate" : 52.3076,
+		"disapprove_hi" : 56.425,
+		"disapprove_lo" : 48.1902,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.8826,
+		"approve_hi" : 47.3194,
+		"approve_lo" : 38.4459,
+		"date" : "2018-11-22",
+		"disapprove_estimate" : 52.3032,
+		"disapprove_hi" : 56.4228,
+		"disapprove_lo" : 48.1836,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.8826,
+		"approve_hi" : 47.3194,
+		"approve_lo" : 38.4459,
+		"date" : "2018-11-23",
+		"disapprove_estimate" : 52.3032,
+		"disapprove_hi" : 56.4228,
+		"disapprove_lo" : 48.1836,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.8826,
+		"approve_hi" : 47.3194,
+		"approve_lo" : 38.4459,
+		"date" : "2018-11-24",
+		"disapprove_estimate" : 52.3032,
+		"disapprove_hi" : 56.4228,
+		"disapprove_lo" : 48.1836,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.9071,
+		"approve_hi" : 47.4408,
+		"approve_lo" : 38.3734,
+		"date" : "2018-11-25",
+		"disapprove_estimate" : 52.2979,
+		"disapprove_hi" : 56.403,
+		"disapprove_lo" : 48.1927,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5353,
+		"approve_hi" : 47.2105,
+		"approve_lo" : 37.86,
+		"date" : "2018-11-26",
+		"disapprove_estimate" : 52.8692,
+		"disapprove_hi" : 57.4003,
+		"disapprove_lo" : 48.3381,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.7509,
+		"approve_hi" : 47.5855,
+		"approve_lo" : 37.9162,
+		"date" : "2018-11-27",
+		"disapprove_estimate" : 52.5495,
+		"disapprove_hi" : 57.2373,
+		"disapprove_lo" : 47.8618,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5026,
+		"approve_hi" : 47.4125,
+		"approve_lo" : 37.5927,
+		"date" : "2018-11-28",
+		"disapprove_estimate" : 52.5369,
+		"disapprove_hi" : 57.3167,
+		"disapprove_lo" : 47.7571,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4499,
+		"approve_hi" : 47.3254,
+		"approve_lo" : 37.5745,
+		"date" : "2018-11-29",
+		"disapprove_estimate" : 52.5618,
+		"disapprove_hi" : 57.3049,
+		"disapprove_lo" : 47.8188,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5651,
+		"approve_hi" : 47.5569,
+		"approve_lo" : 37.5733,
+		"date" : "2018-11-30",
+		"disapprove_estimate" : 52.6314,
+		"disapprove_hi" : 57.4956,
+		"disapprove_lo" : 47.7671,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4466,
+		"approve_hi" : 47.3878,
+		"approve_lo" : 37.5053,
+		"date" : "2018-12-01",
+		"disapprove_estimate" : 52.7499,
+		"disapprove_hi" : 57.5088,
+		"disapprove_lo" : 47.991,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5411,
+		"approve_hi" : 47.5093,
+		"approve_lo" : 37.5728,
+		"date" : "2018-12-02",
+		"disapprove_estimate" : 52.6848,
+		"disapprove_hi" : 57.3321,
+		"disapprove_lo" : 48.0375,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3783,
+		"approve_hi" : 47.1642,
+		"approve_lo" : 37.5925,
+		"date" : "2018-12-03",
+		"disapprove_estimate" : 52.034,
+		"disapprove_hi" : 57.123,
+		"disapprove_lo" : 46.945,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2102,
+		"approve_hi" : 46.8729,
+		"approve_lo" : 37.5475,
+		"date" : "2018-12-04",
+		"disapprove_estimate" : 52.1004,
+		"disapprove_hi" : 57.009,
+		"disapprove_lo" : 47.1919,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3493,
+		"approve_hi" : 47.1389,
+		"approve_lo" : 37.5596,
+		"date" : "2018-12-05",
+		"disapprove_estimate" : 51.7474,
+		"disapprove_hi" : 56.7112,
+		"disapprove_lo" : 46.7836,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0499,
+		"approve_hi" : 46.748,
+		"approve_lo" : 37.3517,
+		"date" : "2018-12-06",
+		"disapprove_estimate" : 52.334,
+		"disapprove_hi" : 57.1138,
+		"disapprove_lo" : 47.5541,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2214,
+		"approve_hi" : 46.8648,
+		"approve_lo" : 37.5779,
+		"date" : "2018-12-07",
+		"disapprove_estimate" : 52.0266,
+		"disapprove_hi" : 56.7687,
+		"disapprove_lo" : 47.2845,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2094,
+		"approve_hi" : 46.8646,
+		"approve_lo" : 37.5541,
+		"date" : "2018-12-08",
+		"disapprove_estimate" : 52.0828,
+		"disapprove_hi" : 56.8112,
+		"disapprove_lo" : 47.3544,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.3605,
+		"approve_hi" : 47.1206,
+		"approve_lo" : 37.6004,
+		"date" : "2018-12-09",
+		"disapprove_estimate" : 52.1075,
+		"disapprove_hi" : 56.7508,
+		"disapprove_lo" : 47.4642,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2403,
+		"approve_hi" : 46.9461,
+		"approve_lo" : 37.5345,
+		"date" : "2018-12-10",
+		"disapprove_estimate" : 52.4693,
+		"disapprove_hi" : 57.0711,
+		"disapprove_lo" : 47.8675,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.9213,
+		"approve_hi" : 46.4724,
+		"approve_lo" : 37.3702,
+		"date" : "2018-12-11",
+		"disapprove_estimate" : 51.9438,
+		"disapprove_hi" : 56.3349,
+		"disapprove_lo" : 47.5527,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4949,
+		"approve_hi" : 47.1019,
+		"approve_lo" : 37.8879,
+		"date" : "2018-12-12",
+		"disapprove_estimate" : 51.943,
+		"disapprove_hi" : 56.1233,
+		"disapprove_lo" : 47.7627,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4784,
+		"approve_hi" : 47.1311,
+		"approve_lo" : 37.8257,
+		"date" : "2018-12-13",
+		"disapprove_estimate" : 51.5809,
+		"disapprove_hi" : 55.8608,
+		"disapprove_lo" : 47.3009,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5018,
+		"approve_hi" : 47.1129,
+		"approve_lo" : 37.8907,
+		"date" : "2018-12-14",
+		"disapprove_estimate" : 51.6832,
+		"disapprove_hi" : 55.9819,
+		"disapprove_lo" : 47.3846,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5018,
+		"approve_hi" : 47.1129,
+		"approve_lo" : 37.8907,
+		"date" : "2018-12-15",
+		"disapprove_estimate" : 51.6832,
+		"disapprove_hi" : 55.9819,
+		"disapprove_lo" : 47.3846,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.5253,
+		"approve_hi" : 47.0444,
+		"approve_lo" : 38.0062,
+		"date" : "2018-12-16",
+		"disapprove_estimate" : 51.9974,
+		"disapprove_hi" : 56.2519,
+		"disapprove_lo" : 47.7429,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.2371,
+		"approve_hi" : 46.8901,
+		"approve_lo" : 37.5842,
+		"date" : "2018-12-17",
+		"disapprove_estimate" : 52.358,
+		"disapprove_hi" : 56.7077,
+		"disapprove_lo" : 48.0083,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.4514,
+		"approve_hi" : 46.975,
+		"approve_lo" : 37.9278,
+		"date" : "2018-12-18",
+		"disapprove_estimate" : 52.3055,
+		"disapprove_hi" : 56.5477,
+		"disapprove_lo" : 48.0632,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.0857,
+		"approve_hi" : 46.742,
+		"approve_lo" : 37.4295,
+		"date" : "2018-12-19",
+		"disapprove_estimate" : 52.429,
+		"disapprove_hi" : 56.4686,
+		"disapprove_lo" : 48.3893,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1138,
+		"approve_hi" : 46.723,
+		"approve_lo" : 37.5046,
+		"date" : "2018-12-20",
+		"disapprove_estimate" : 52.5838,
+		"disapprove_hi" : 56.5719,
+		"disapprove_lo" : 48.5958,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.203,
+		"approve_hi" : 46.776,
+		"approve_lo" : 37.6301,
+		"date" : "2018-12-21",
+		"disapprove_estimate" : 52.7133,
+		"disapprove_hi" : 56.8943,
+		"disapprove_lo" : 48.5323,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1632,
+		"approve_hi" : 46.7591,
+		"approve_lo" : 37.5674,
+		"date" : "2018-12-22",
+		"disapprove_estimate" : 52.8024,
+		"disapprove_hi" : 56.9936,
+		"disapprove_lo" : 48.6112,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 42.1632,
+		"approve_hi" : 46.7591,
+		"approve_lo" : 37.5674,
+		"date" : "2018-12-23",
+		"disapprove_estimate" : 52.8024,
+		"disapprove_hi" : 56.9936,
+		"disapprove_lo" : 48.6112,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8885,
+		"approve_hi" : 46.44,
+		"approve_lo" : 37.3371,
+		"date" : "2018-12-24",
+		"disapprove_estimate" : 52.946,
+		"disapprove_hi" : 57.0496,
+		"disapprove_lo" : 48.8424,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.8983,
+		"approve_hi" : 46.4541,
+		"approve_lo" : 37.3425,
+		"date" : "2018-12-25",
+		"disapprove_estimate" : 52.9834,
+		"disapprove_hi" : 57.0849,
+		"disapprove_lo" : 48.882,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4116,
+		"approve_hi" : 45.9101,
+		"approve_lo" : 36.9131,
+		"date" : "2018-12-26",
+		"disapprove_estimate" : 53.2723,
+		"disapprove_hi" : 57.2592,
+		"disapprove_lo" : 49.2853,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4923,
+		"approve_hi" : 46.0445,
+		"approve_lo" : 36.9401,
+		"date" : "2018-12-27",
+		"disapprove_estimate" : 53.2337,
+		"disapprove_hi" : 57.2239,
+		"disapprove_lo" : 49.2435,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4733,
+		"approve_hi" : 46.0247,
+		"approve_lo" : 36.9219,
+		"date" : "2018-12-28",
+		"disapprove_estimate" : 53.2495,
+		"disapprove_hi" : 57.2368,
+		"disapprove_lo" : 49.2621,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4159,
+		"approve_hi" : 45.9899,
+		"approve_lo" : 36.8419,
+		"date" : "2018-12-29",
+		"disapprove_estimate" : 53.2887,
+		"disapprove_hi" : 57.2809,
+		"disapprove_lo" : 49.2966,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4277,
+		"approve_hi" : 45.9787,
+		"approve_lo" : 36.8767,
+		"date" : "2018-12-30",
+		"disapprove_estimate" : 53.3614,
+		"disapprove_hi" : 57.3237,
+		"disapprove_lo" : 49.399,
+		"subgroup" : "All polls"
+	},
+	{
+		"approve_estimate" : 41.4597,
+		"approve_hi" : 46,
+		"approve_lo" : 36.9194,
+		"date" : "2018-12-31",
+		"disapprove_estimate" : 53.3708,
+		"disapprove_hi" : 57.3493,
+		"disapprove_lo" : 49.3924,
+		"subgroup" : "All polls"
+	}
+]
