@@ -1,0 +1,3287 @@
+[
+  {
+    "Approval": 41.4597, 
+    "Date": "2018-12-31", 
+    "Disapproval": 53.3708, 
+    "St_Close": 249.92, 
+    "St_Open": 249.56, 
+    "St_high": 250.19, 
+    "St_low": 247.47
+  }, 
+  {
+    "Approval": 41.4733, 
+    "Date": "2018-12-28", 
+    "Disapproval": 53.2495, 
+    "St_Close": 247.75, 
+    "St_Open": 249.58, 
+    "St_high": 251.4, 
+    "St_low": 246.45
+  }, 
+  {
+    "Approval": 41.4923, 
+    "Date": "2018-12-27", 
+    "Disapproval": 53.2337, 
+    "St_Close": 248.07, 
+    "St_Open": 242.57, 
+    "St_high": 248.29, 
+    "St_low": 238.96
+  }, 
+  {
+    "Approval": 41.4116, 
+    "Date": "2018-12-26", 
+    "Disapproval": 53.2723, 
+    "St_Close": 246.18, 
+    "St_Open": 235.97, 
+    "St_high": 246.18, 
+    "St_low": 233.76
+  }, 
+  {
+    "Approval": 41.8885, 
+    "Date": "2018-12-24", 
+    "Disapproval": 52.946, 
+    "St_Close": 234.34, 
+    "St_Open": 239.04, 
+    "St_high": 240.8355, 
+    "St_low": 234.27
+  }, 
+  {
+    "Approval": 42.203, 
+    "Date": "2018-12-21", 
+    "Disapproval": 52.7133, 
+    "St_Close": 240.7, 
+    "St_Open": 246.74, 
+    "St_high": 249.71, 
+    "St_low": 239.98
+  }, 
+  {
+    "Approval": 42.1138, 
+    "Date": "2018-12-20", 
+    "Disapproval": 52.5838, 
+    "St_Close": 247.17, 
+    "St_Open": 249.86, 
+    "St_high": 251.62, 
+    "St_low": 244.65
+  }, 
+  {
+    "Approval": 42.0857, 
+    "Date": "2018-12-19", 
+    "Disapproval": 52.429, 
+    "St_Close": 251.26, 
+    "St_Open": 255.17, 
+    "St_high": 259.4, 
+    "St_low": 249.35
+  }, 
+  {
+    "Approval": 42.4514, 
+    "Date": "2018-12-18", 
+    "Disapproval": 52.3055, 
+    "St_Close": 255.08, 
+    "St_Open": 257.2, 
+    "St_high": 257.95, 
+    "St_low": 253.28
+  }, 
+  {
+    "Approval": 42.2371, 
+    "Date": "2018-12-17", 
+    "Disapproval": 52.358, 
+    "St_Close": 255.36, 
+    "St_Open": 259.4, 
+    "St_high": 260.65, 
+    "St_low": 253.525
+  }, 
+  {
+    "Approval": 42.5018, 
+    "Date": "2018-12-14", 
+    "Disapproval": 51.6832, 
+    "St_Close": 260.47, 
+    "St_Open": 262.96, 
+    "St_high": 264.03, 
+    "St_low": 259.85
+  }, 
+  {
+    "Approval": 42.4784, 
+    "Date": "2018-12-13", 
+    "Disapproval": 51.5809, 
+    "St_Close": 265.37, 
+    "St_Open": 266.52, 
+    "St_high": 267.49, 
+    "St_low": 264.12
+  }, 
+  {
+    "Approval": 42.4949, 
+    "Date": "2018-12-12", 
+    "Disapproval": 51.943, 
+    "St_Close": 265.46, 
+    "St_Open": 267.47, 
+    "St_high": 269.0, 
+    "St_low": 265.37
+  }, 
+  {
+    "Approval": 41.9213, 
+    "Date": "2018-12-11", 
+    "Disapproval": 51.9438, 
+    "St_Close": 264.13, 
+    "St_Open": 267.66, 
+    "St_high": 267.87, 
+    "St_low": 262.48
+  }, 
+  {
+    "Approval": 42.2403, 
+    "Date": "2018-12-10", 
+    "Disapproval": 52.4693, 
+    "St_Close": 264.07, 
+    "St_Open": 263.37, 
+    "St_high": 265.1613, 
+    "St_low": 258.62
+  }, 
+  {
+    "Approval": 42.2214, 
+    "Date": "2018-12-07", 
+    "Disapproval": 52.0266, 
+    "St_Close": 263.57, 
+    "St_Open": 269.46, 
+    "St_high": 271.22, 
+    "St_low": 262.63
+  }, 
+  {
+    "Approval": 42.0499, 
+    "Date": "2018-12-06", 
+    "Disapproval": 52.334, 
+    "St_Close": 269.84, 
+    "St_Open": 265.92, 
+    "St_high": 269.97, 
+    "St_low": 262.44
+  }, 
+  {
+    "Approval": 42.2102, 
+    "Date": "2018-12-04", 
+    "Disapproval": 52.1004, 
+    "St_Close": 270.25, 
+    "St_Open": 278.37, 
+    "St_high": 278.85, 
+    "St_low": 269.9
+  }, 
+  {
+    "Approval": 42.3783, 
+    "Date": "2018-12-03", 
+    "Disapproval": 52.034, 
+    "St_Close": 279.3, 
+    "St_Open": 280.28, 
+    "St_high": 280.4, 
+    "St_low": 277.505
+  }, 
+  {
+    "Approval": 42.5651, 
+    "Date": "2018-11-30", 
+    "Disapproval": 52.6314, 
+    "St_Close": 275.65, 
+    "St_Open": 273.81, 
+    "St_high": 276.28, 
+    "St_low": 273.45
+  }, 
+  {
+    "Approval": 42.4499, 
+    "Date": "2018-11-29", 
+    "Disapproval": 52.5618, 
+    "St_Close": 273.98, 
+    "St_Open": 273.71, 
+    "St_high": 275.55, 
+    "St_low": 272.43
+  }, 
+  {
+    "Approval": 42.5026, 
+    "Date": "2018-11-28", 
+    "Disapproval": 52.5369, 
+    "St_Close": 274.58, 
+    "St_Open": 269.6, 
+    "St_high": 274.58, 
+    "St_low": 268.3272
+  }, 
+  {
+    "Approval": 42.7509, 
+    "Date": "2018-11-27", 
+    "Disapproval": 52.5495, 
+    "St_Close": 268.4, 
+    "St_Open": 266.34, 
+    "St_high": 268.4, 
+    "St_low": 265.66
+  }, 
+  {
+    "Approval": 42.5353, 
+    "Date": "2018-11-26", 
+    "Disapproval": 52.8692, 
+    "St_Close": 267.5, 
+    "St_Open": 265.78, 
+    "St_high": 267.75, 
+    "St_low": 265.34
+  }, 
+  {
+    "Approval": 42.8826, 
+    "Date": "2018-11-23", 
+    "Disapproval": 52.3032, 
+    "St_Close": 263.25, 
+    "St_Open": 263.18, 
+    "St_high": 264.8234, 
+    "St_low": 263.07
+  }, 
+  {
+    "Approval": 42.8721, 
+    "Date": "2018-11-21", 
+    "Disapproval": 52.3076, 
+    "St_Close": 265.02, 
+    "St_Open": 265.86, 
+    "St_high": 267.15, 
+    "St_low": 265.01
+  }, 
+  {
+    "Approval": 42.4017, 
+    "Date": "2018-11-20", 
+    "Disapproval": 52.9818, 
+    "St_Close": 264.12, 
+    "St_Open": 265.36, 
+    "St_high": 267.0, 
+    "St_low": 263.15
+  }, 
+  {
+    "Approval": 42.7664, 
+    "Date": "2018-11-19", 
+    "Disapproval": 52.7082, 
+    "St_Close": 269.1, 
+    "St_Open": 273.05, 
+    "St_high": 273.38, 
+    "St_low": 268.07
+  }, 
+  {
+    "Approval": 42.4588, 
+    "Date": "2018-11-16", 
+    "Disapproval": 53.0445, 
+    "St_Close": 273.73, 
+    "St_Open": 271.79, 
+    "St_high": 274.75, 
+    "St_low": 271.21
+  }, 
+  {
+    "Approval": 42.42, 
+    "Date": "2018-11-15", 
+    "Disapproval": 53.0212, 
+    "St_Close": 273.02, 
+    "St_Open": 268.78, 
+    "St_high": 273.54, 
+    "St_low": 267.0102
+  }, 
+  {
+    "Approval": 42.0104, 
+    "Date": "2018-11-14", 
+    "Disapproval": 52.6721, 
+    "St_Close": 270.2, 
+    "St_Open": 274.16, 
+    "St_high": 274.61, 
+    "St_low": 268.45
+  }, 
+  {
+    "Approval": 41.7586, 
+    "Date": "2018-11-13", 
+    "Disapproval": 52.7647, 
+    "St_Close": 272.06, 
+    "St_Open": 273.09, 
+    "St_high": 275.325, 
+    "St_low": 271.25
+  }, 
+  {
+    "Approval": 41.8031, 
+    "Date": "2018-11-12", 
+    "Disapproval": 52.6801, 
+    "St_Close": 272.57, 
+    "St_Open": 277.19, 
+    "St_high": 277.46, 
+    "St_low": 271.99
+  }, 
+  {
+    "Approval": 42.1634, 
+    "Date": "2018-11-09", 
+    "Disapproval": 52.4832, 
+    "St_Close": 277.76, 
+    "St_Open": 279.03, 
+    "St_high": 279.24, 
+    "St_low": 276.18
+  }, 
+  {
+    "Approval": 42.0483, 
+    "Date": "2018-11-08", 
+    "Disapproval": 52.3914, 
+    "St_Close": 280.5, 
+    "St_Open": 280.11, 
+    "St_high": 281.22, 
+    "St_low": 279.22
+  }, 
+  {
+    "Approval": 41.9674, 
+    "Date": "2018-11-07", 
+    "Disapproval": 52.4322, 
+    "St_Close": 281.01, 
+    "St_Open": 277.56, 
+    "St_high": 281.1, 
+    "St_low": 277.08
+  }, 
+  {
+    "Approval": 41.8163, 
+    "Date": "2018-11-06", 
+    "Disapproval": 52.8186, 
+    "St_Close": 275.12, 
+    "St_Open": 273.32, 
+    "St_high": 275.3, 
+    "St_low": 273.25
+  }, 
+  {
+    "Approval": 41.8655, 
+    "Date": "2018-11-05", 
+    "Disapproval": 52.8154, 
+    "St_Close": 273.39, 
+    "St_Open": 272.44, 
+    "St_high": 274.01, 
+    "St_low": 271.35
+  }, 
+  {
+    "Approval": 42.109, 
+    "Date": "2018-11-02", 
+    "Disapproval": 52.9453, 
+    "St_Close": 271.89, 
+    "St_Open": 274.75, 
+    "St_high": 275.23, 
+    "St_low": 269.59
+  }, 
+  {
+    "Approval": 41.9981, 
+    "Date": "2018-11-01", 
+    "Disapproval": 53.1695, 
+    "St_Close": 273.51, 
+    "St_Open": 271.6, 
+    "St_high": 273.73, 
+    "St_low": 270.38
+  }, 
+  {
+    "Approval": 42.0051, 
+    "Date": "2018-10-31", 
+    "Disapproval": 53.3247, 
+    "St_Close": 270.63, 
+    "St_Open": 270.65, 
+    "St_high": 273.23, 
+    "St_low": 270.12
+  }, 
+  {
+    "Approval": 42.2276, 
+    "Date": "2018-10-30", 
+    "Disapproval": 53.0704, 
+    "St_Close": 267.77, 
+    "St_Open": 263.67, 
+    "St_high": 268.12, 
+    "St_low": 263.12
+  }, 
+  {
+    "Approval": 42.3738, 
+    "Date": "2018-10-29", 
+    "Disapproval": 52.9166, 
+    "St_Close": 263.86, 
+    "St_Open": 268.8, 
+    "St_high": 270.25, 
+    "St_low": 259.85
+  }, 
+  {
+    "Approval": 42.3963, 
+    "Date": "2018-10-26", 
+    "Disapproval": 52.4744, 
+    "St_Close": 265.33, 
+    "St_Open": 265.92, 
+    "St_high": 271.0, 
+    "St_low": 262.29
+  }, 
+  {
+    "Approval": 42.7653, 
+    "Date": "2018-10-25", 
+    "Disapproval": 52.1888, 
+    "St_Close": 270.08, 
+    "St_Open": 267.38, 
+    "St_high": 271.81, 
+    "St_low": 266.23
+  }, 
+  {
+    "Approval": 42.8027, 
+    "Date": "2018-10-24", 
+    "Disapproval": 51.9563, 
+    "St_Close": 265.32, 
+    "St_Open": 273.33, 
+    "St_high": 273.76, 
+    "St_low": 264.7
+  }, 
+  {
+    "Approval": 43.0744, 
+    "Date": "2018-10-23", 
+    "Disapproval": 51.9922, 
+    "St_Close": 273.61, 
+    "St_Open": 270.95, 
+    "St_high": 274.87, 
+    "St_low": 268.61
+  }, 
+  {
+    "Approval": 43.1078, 
+    "Date": "2018-10-22", 
+    "Disapproval": 52.0053, 
+    "St_Close": 275.01, 
+    "St_Open": 277.0, 
+    "St_high": 277.36, 
+    "St_low": 274.41
+  }, 
+  {
+    "Approval": 42.2121, 
+    "Date": "2018-10-19", 
+    "Disapproval": 52.3761, 
+    "St_Close": 276.25, 
+    "St_Open": 277.13, 
+    "St_high": 279.3, 
+    "St_low": 275.47
+  }, 
+  {
+    "Approval": 42.5928, 
+    "Date": "2018-10-18", 
+    "Disapproval": 52.1712, 
+    "St_Close": 276.4, 
+    "St_Open": 279.4, 
+    "St_high": 280.07, 
+    "St_low": 274.97
+  }, 
+  {
+    "Approval": 42.6223, 
+    "Date": "2018-10-17", 
+    "Disapproval": 52.1101, 
+    "St_Close": 280.45, 
+    "St_Open": 280.44, 
+    "St_high": 281.15, 
+    "St_low": 277.56
+  }, 
+  {
+    "Approval": 41.9318, 
+    "Date": "2018-10-16", 
+    "Disapproval": 52.3923, 
+    "St_Close": 280.4, 
+    "St_Open": 276.6, 
+    "St_high": 280.82, 
+    "St_low": 276.07
+  }, 
+  {
+    "Approval": 42.0243, 
+    "Date": "2018-10-15", 
+    "Disapproval": 52.2367, 
+    "St_Close": 274.4, 
+    "St_Open": 275.55, 
+    "St_high": 277.04, 
+    "St_low": 274.3
+  }, 
+  {
+    "Approval": 41.7736, 
+    "Date": "2018-10-12", 
+    "Disapproval": 52.5428, 
+    "St_Close": 275.95, 
+    "St_Open": 276.77, 
+    "St_high": 277.09, 
+    "St_low": 272.37
+  }, 
+  {
+    "Approval": 41.8218, 
+    "Date": "2018-10-11", 
+    "Disapproval": 52.5342, 
+    "St_Close": 272.17, 
+    "St_Open": 277.08, 
+    "St_high": 278.9, 
+    "St_low": 270.36
+  }, 
+  {
+    "Approval": 41.7053, 
+    "Date": "2018-10-10", 
+    "Disapproval": 52.5591, 
+    "St_Close": 278.3, 
+    "St_Open": 286.83, 
+    "St_high": 286.91, 
+    "St_low": 277.88
+  }, 
+  {
+    "Approval": 42.0372, 
+    "Date": "2018-10-09", 
+    "Disapproval": 52.1872, 
+    "St_Close": 287.4, 
+    "St_Open": 287.39, 
+    "St_high": 288.86, 
+    "St_low": 286.77
+  }, 
+  {
+    "Approval": 42.4774, 
+    "Date": "2018-10-08", 
+    "Disapproval": 51.9607, 
+    "St_Close": 287.82, 
+    "St_Open": 287.05, 
+    "St_high": 288.22, 
+    "St_low": 285.5
+  }, 
+  {
+    "Approval": 42.1723, 
+    "Date": "2018-10-05", 
+    "Disapproval": 52.1777, 
+    "St_Close": 287.82, 
+    "St_Open": 289.69, 
+    "St_high": 290.27, 
+    "St_low": 286.22
+  }, 
+  {
+    "Approval": 42.1202, 
+    "Date": "2018-10-04", 
+    "Disapproval": 52.423, 
+    "St_Close": 289.44, 
+    "St_Open": 291.18, 
+    "St_high": 291.24, 
+    "St_low": 287.66
+  }, 
+  {
+    "Approval": 41.8768, 
+    "Date": "2018-10-03", 
+    "Disapproval": 52.6498, 
+    "St_Close": 291.72, 
+    "St_Open": 292.74, 
+    "St_high": 293.21, 
+    "St_low": 291.32
+  }, 
+  {
+    "Approval": 41.8219, 
+    "Date": "2018-10-02", 
+    "Disapproval": 52.4287, 
+    "St_Close": 291.56, 
+    "St_Open": 291.56, 
+    "St_high": 292.355, 
+    "St_low": 291.14
+  }, 
+  {
+    "Approval": 41.7725, 
+    "Date": "2018-10-01", 
+    "Disapproval": 52.6786, 
+    "St_Close": 291.73, 
+    "St_Open": 292.11, 
+    "St_high": 292.93, 
+    "St_low": 290.98
+  }, 
+  {
+    "Approval": 41.4745, 
+    "Date": "2018-09-28", 
+    "Disapproval": 52.7534, 
+    "St_Close": 290.72, 
+    "St_Open": 289.99, 
+    "St_high": 291.28, 
+    "St_low": 289.95
+  }, 
+  {
+    "Approval": 41.3852, 
+    "Date": "2018-09-27", 
+    "Disapproval": 52.8104, 
+    "St_Close": 290.69, 
+    "St_Open": 290.41, 
+    "St_high": 291.91, 
+    "St_low": 290.1
+  }, 
+  {
+    "Approval": 41.3731, 
+    "Date": "2018-09-26", 
+    "Disapproval": 52.7845, 
+    "St_Close": 289.88, 
+    "St_Open": 290.91, 
+    "St_high": 292.24, 
+    "St_low": 289.41
+  }, 
+  {
+    "Approval": 41.3996, 
+    "Date": "2018-09-25", 
+    "Disapproval": 53.1816, 
+    "St_Close": 290.75, 
+    "St_Open": 291.53, 
+    "St_high": 291.65, 
+    "St_low": 290.4833
+  }, 
+  {
+    "Approval": 41.2966, 
+    "Date": "2018-09-24", 
+    "Disapproval": 53.4105, 
+    "St_Close": 291.02, 
+    "St_Open": 291.34, 
+    "St_high": 291.5, 
+    "St_low": 290.37
+  }, 
+  {
+    "Approval": 40.4806, 
+    "Date": "2018-09-21", 
+    "Disapproval": 53.8432, 
+    "St_Close": 291.99, 
+    "St_Open": 293.09, 
+    "St_high": 293.22, 
+    "St_low": 291.81
+  }, 
+  {
+    "Approval": 40.4597, 
+    "Date": "2018-09-20", 
+    "Disapproval": 53.6442, 
+    "St_Close": 293.58, 
+    "St_Open": 292.64, 
+    "St_high": 293.94, 
+    "St_low": 291.2363
+  }, 
+  {
+    "Approval": 40.3452, 
+    "Date": "2018-09-19", 
+    "Disapproval": 53.8038, 
+    "St_Close": 291.22, 
+    "St_Open": 290.97, 
+    "St_high": 291.69, 
+    "St_low": 290.825
+  }, 
+  {
+    "Approval": 40.3781, 
+    "Date": "2018-09-18", 
+    "Disapproval": 53.7867, 
+    "St_Close": 290.91, 
+    "St_Open": 289.58, 
+    "St_high": 291.58, 
+    "St_low": 289.55
+  }, 
+  {
+    "Approval": 40.1413, 
+    "Date": "2018-09-17", 
+    "Disapproval": 53.6737, 
+    "St_Close": 289.34, 
+    "St_Open": 290.82, 
+    "St_high": 290.86, 
+    "St_low": 289.03
+  }, 
+  {
+    "Approval": 39.9229, 
+    "Date": "2018-09-14", 
+    "Disapproval": 53.6974, 
+    "St_Close": 290.88, 
+    "St_Open": 291.06, 
+    "St_high": 291.27, 
+    "St_low": 290.0
+  }, 
+  {
+    "Approval": 39.869, 
+    "Date": "2018-09-13", 
+    "Disapproval": 53.7475, 
+    "St_Close": 290.83, 
+    "St_Open": 290.32, 
+    "St_high": 291.0384, 
+    "St_low": 289.995
+  }, 
+  {
+    "Approval": 39.8793, 
+    "Date": "2018-09-12", 
+    "Disapproval": 53.6591, 
+    "St_Close": 289.12, 
+    "St_Open": 289.06, 
+    "St_high": 289.8, 
+    "St_low": 288.23
+  }, 
+  {
+    "Approval": 39.9963, 
+    "Date": "2018-09-11", 
+    "Disapproval": 53.5033, 
+    "St_Close": 289.05, 
+    "St_Open": 287.37, 
+    "St_high": 289.55, 
+    "St_low": 286.975
+  }, 
+  {
+    "Approval": 39.9534, 
+    "Date": "2018-09-10", 
+    "Disapproval": 53.708, 
+    "St_Close": 288.1, 
+    "St_Open": 288.74, 
+    "St_high": 289.04, 
+    "St_low": 287.88
+  }, 
+  {
+    "Approval": 40.3293, 
+    "Date": "2018-09-07", 
+    "Disapproval": 53.5564, 
+    "St_Close": 287.6, 
+    "St_Open": 286.98, 
+    "St_high": 288.7, 
+    "St_low": 286.71
+  }, 
+  {
+    "Approval": 40.1828, 
+    "Date": "2018-09-06", 
+    "Disapproval": 53.6234, 
+    "St_Close": 288.16, 
+    "St_Open": 289.15, 
+    "St_high": 289.49, 
+    "St_low": 287.0
+  }, 
+  {
+    "Approval": 39.8979, 
+    "Date": "2018-09-05", 
+    "Disapproval": 53.7274, 
+    "St_Close": 289.03, 
+    "St_Open": 289.41, 
+    "St_high": 289.64, 
+    "St_low": 287.89
+  }, 
+  {
+    "Approval": 40.0554, 
+    "Date": "2018-09-04", 
+    "Disapproval": 54.1169, 
+    "St_Close": 289.81, 
+    "St_Open": 289.84, 
+    "St_high": 290.21, 
+    "St_low": 288.68
+  }, 
+  {
+    "Approval": 40.2538, 
+    "Date": "2018-08-31", 
+    "Disapproval": 54.465, 
+    "St_Close": 290.31, 
+    "St_Open": 289.84, 
+    "St_high": 290.81, 
+    "St_low": 289.29
+  }, 
+  {
+    "Approval": 41.5049, 
+    "Date": "2018-08-30", 
+    "Disapproval": 53.5397, 
+    "St_Close": 290.3, 
+    "St_Open": 290.94, 
+    "St_high": 291.36, 
+    "St_low": 289.63
+  }, 
+  {
+    "Approval": 41.4462, 
+    "Date": "2018-08-29", 
+    "Disapproval": 53.6285, 
+    "St_Close": 291.48, 
+    "St_Open": 290.16, 
+    "St_high": 291.74, 
+    "St_low": 289.8854
+  }, 
+  {
+    "Approval": 41.3774, 
+    "Date": "2018-08-28", 
+    "Disapproval": 53.6312, 
+    "St_Close": 289.92, 
+    "St_Open": 290.3, 
+    "St_high": 290.4175, 
+    "St_low": 289.4
+  }, 
+  {
+    "Approval": 41.8685, 
+    "Date": "2018-08-27", 
+    "Disapproval": 53.3843, 
+    "St_Close": 289.78, 
+    "St_Open": 288.86, 
+    "St_high": 289.9, 
+    "St_low": 288.68
+  }, 
+  {
+    "Approval": 41.466, 
+    "Date": "2018-08-24", 
+    "Disapproval": 53.5682, 
+    "St_Close": 287.51, 
+    "St_Open": 286.44, 
+    "St_high": 287.67, 
+    "St_low": 286.38
+  }, 
+  {
+    "Approval": 42.0897, 
+    "Date": "2018-08-23", 
+    "Disapproval": 52.9692, 
+    "St_Close": 285.79, 
+    "St_Open": 285.97, 
+    "St_high": 286.94, 
+    "St_low": 285.43
+  }, 
+  {
+    "Approval": 42.1254, 
+    "Date": "2018-08-22", 
+    "Disapproval": 52.9147, 
+    "St_Close": 286.17, 
+    "St_Open": 285.88, 
+    "St_high": 286.76, 
+    "St_low": 285.575
+  }, 
+  {
+    "Approval": 41.7751, 
+    "Date": "2018-08-21", 
+    "Disapproval": 52.7854, 
+    "St_Close": 286.34, 
+    "St_Open": 286.25, 
+    "St_high": 287.31, 
+    "St_low": 285.7135
+  }, 
+  {
+    "Approval": 42.2604, 
+    "Date": "2018-08-20", 
+    "Disapproval": 52.3393, 
+    "St_Close": 285.67, 
+    "St_Open": 285.57, 
+    "St_high": 285.97, 
+    "St_low": 285.06
+  }, 
+  {
+    "Approval": 41.9737, 
+    "Date": "2018-08-17", 
+    "Disapproval": 52.5411, 
+    "St_Close": 285.06, 
+    "St_Open": 283.83, 
+    "St_high": 285.5601, 
+    "St_low": 283.37
+  }, 
+  {
+    "Approval": 42.1124, 
+    "Date": "2018-08-16", 
+    "Disapproval": 52.4395, 
+    "St_Close": 284.06, 
+    "St_Open": 283.4, 
+    "St_high": 285.04, 
+    "St_low": 283.36
+  }, 
+  {
+    "Approval": 42.0549, 
+    "Date": "2018-08-15", 
+    "Disapproval": 52.4433, 
+    "St_Close": 281.78, 
+    "St_Open": 282.38, 
+    "St_high": 282.54, 
+    "St_low": 280.16
+  }, 
+  {
+    "Approval": 42.2053, 
+    "Date": "2018-08-14", 
+    "Disapproval": 52.3893, 
+    "St_Close": 283.9, 
+    "St_Open": 282.92, 
+    "St_high": 284.17, 
+    "St_low": 282.4833
+  }, 
+  {
+    "Approval": 41.8187, 
+    "Date": "2018-08-13", 
+    "Disapproval": 52.5466, 
+    "St_Close": 282.1, 
+    "St_Open": 283.47, 
+    "St_high": 284.16, 
+    "St_low": 281.77
+  }, 
+  {
+    "Approval": 41.9125, 
+    "Date": "2018-08-10", 
+    "Disapproval": 52.49, 
+    "St_Close": 283.16, 
+    "St_Open": 283.45, 
+    "St_high": 284.055, 
+    "St_low": 282.36
+  }, 
+  {
+    "Approval": 41.9196, 
+    "Date": "2018-08-09", 
+    "Disapproval": 52.3918, 
+    "St_Close": 285.07, 
+    "St_Open": 285.53, 
+    "St_high": 285.97, 
+    "St_low": 284.915
+  }, 
+  {
+    "Approval": 41.7121, 
+    "Date": "2018-08-08", 
+    "Disapproval": 52.4597, 
+    "St_Close": 285.46, 
+    "St_Open": 285.39, 
+    "St_high": 285.91, 
+    "St_low": 284.94
+  }, 
+  {
+    "Approval": 41.4506, 
+    "Date": "2018-08-07", 
+    "Disapproval": 52.666, 
+    "St_Close": 285.58, 
+    "St_Open": 285.39, 
+    "St_high": 286.01, 
+    "St_low": 285.24
+  }, 
+  {
+    "Approval": 41.4671, 
+    "Date": "2018-08-06", 
+    "Disapproval": 52.7219, 
+    "St_Close": 284.64, 
+    "St_Open": 283.64, 
+    "St_high": 284.99, 
+    "St_low": 283.2015
+  }, 
+  {
+    "Approval": 41.4345, 
+    "Date": "2018-08-03", 
+    "Disapproval": 52.8048, 
+    "St_Close": 283.6, 
+    "St_Open": 282.53, 
+    "St_high": 283.6577, 
+    "St_low": 282.33
+  }, 
+  {
+    "Approval": 41.4342, 
+    "Date": "2018-08-02", 
+    "Disapproval": 52.8118, 
+    "St_Close": 282.39, 
+    "St_Open": 279.39, 
+    "St_high": 282.58, 
+    "St_low": 279.16
+  }, 
+  {
+    "Approval": 41.299, 
+    "Date": "2018-08-01", 
+    "Disapproval": 52.9095, 
+    "St_Close": 280.86, 
+    "St_Open": 281.56, 
+    "St_high": 282.13, 
+    "St_low": 280.1315
+  }, 
+  {
+    "Approval": 41.4134, 
+    "Date": "2018-07-31", 
+    "Disapproval": 52.8578, 
+    "St_Close": 281.33, 
+    "St_Open": 280.81, 
+    "St_high": 282.02, 
+    "St_low": 280.38
+  }, 
+  {
+    "Approval": 41.3045, 
+    "Date": "2018-07-30", 
+    "Disapproval": 52.9963, 
+    "St_Close": 279.95, 
+    "St_Open": 281.51, 
+    "St_high": 281.69, 
+    "St_low": 279.36
+  }, 
+  {
+    "Approval": 41.4791, 
+    "Date": "2018-07-27", 
+    "Disapproval": 52.9919, 
+    "St_Close": 281.42, 
+    "St_Open": 283.71, 
+    "St_high": 283.82, 
+    "St_low": 280.38
+  }, 
+  {
+    "Approval": 41.2835, 
+    "Date": "2018-07-26", 
+    "Disapproval": 53.0233, 
+    "St_Close": 283.34, 
+    "St_Open": 283.2, 
+    "St_high": 284.11, 
+    "St_low": 283.09
+  }, 
+  {
+    "Approval": 41.3385, 
+    "Date": "2018-07-25", 
+    "Disapproval": 53.0346, 
+    "St_Close": 284.01, 
+    "St_Open": 281.33, 
+    "St_high": 284.37, 
+    "St_low": 281.28
+  }, 
+  {
+    "Approval": 41.3747, 
+    "Date": "2018-07-24", 
+    "Disapproval": 53.3551, 
+    "St_Close": 281.61, 
+    "St_Open": 281.79, 
+    "St_high": 282.56, 
+    "St_low": 280.63
+  }, 
+  {
+    "Approval": 41.7831, 
+    "Date": "2018-07-23", 
+    "Disapproval": 52.8576, 
+    "St_Close": 280.2, 
+    "St_Open": 279.45, 
+    "St_high": 280.43, 
+    "St_low": 279.06
+  }, 
+  {
+    "Approval": 41.7853, 
+    "Date": "2018-07-20", 
+    "Disapproval": 52.7425, 
+    "St_Close": 279.68, 
+    "St_Open": 279.77, 
+    "St_high": 280.48, 
+    "St_low": 279.5
+  }, 
+  {
+    "Approval": 41.7859, 
+    "Date": "2018-07-19", 
+    "Disapproval": 52.8283, 
+    "St_Close": 280.0, 
+    "St_Open": 280.31, 
+    "St_high": 280.74, 
+    "St_low": 279.46
+  }, 
+  {
+    "Approval": 41.7602, 
+    "Date": "2018-07-18", 
+    "Disapproval": 52.837, 
+    "St_Close": 281.06, 
+    "St_Open": 280.56, 
+    "St_high": 281.18, 
+    "St_low": 280.06
+  }, 
+  {
+    "Approval": 42.0509, 
+    "Date": "2018-07-17", 
+    "Disapproval": 52.6681, 
+    "St_Close": 280.47, 
+    "St_Open": 278.47, 
+    "St_high": 280.91, 
+    "St_low": 278.41
+  }, 
+  {
+    "Approval": 42.1224, 
+    "Date": "2018-07-16", 
+    "Disapproval": 52.8128, 
+    "St_Close": 279.34, 
+    "St_Open": 279.64, 
+    "St_high": 279.803, 
+    "St_low": 278.84
+  }, 
+  {
+    "Approval": 42.0644, 
+    "Date": "2018-07-13", 
+    "Disapproval": 52.9017, 
+    "St_Close": 279.59, 
+    "St_Open": 279.17, 
+    "St_high": 279.93, 
+    "St_low": 278.66
+  }, 
+  {
+    "Approval": 42.2897, 
+    "Date": "2018-07-12", 
+    "Disapproval": 52.7488, 
+    "St_Close": 279.37, 
+    "St_Open": 278.28, 
+    "St_high": 279.43, 
+    "St_low": 277.6
+  }, 
+  {
+    "Approval": 41.9629, 
+    "Date": "2018-07-11", 
+    "Disapproval": 52.8864, 
+    "St_Close": 276.86, 
+    "St_Open": 277.15, 
+    "St_high": 278.04, 
+    "St_low": 276.52
+  }, 
+  {
+    "Approval": 41.8686, 
+    "Date": "2018-07-10", 
+    "Disapproval": 52.9706, 
+    "St_Close": 278.9, 
+    "St_Open": 278.41, 
+    "St_high": 279.01, 
+    "St_low": 278.08
+  }, 
+  {
+    "Approval": 42.1382, 
+    "Date": "2018-07-09", 
+    "Disapproval": 52.8242, 
+    "St_Close": 277.9, 
+    "St_Open": 276.55, 
+    "St_high": 277.96, 
+    "St_low": 276.5
+  }, 
+  {
+    "Approval": 42.2434, 
+    "Date": "2018-07-06", 
+    "Disapproval": 52.88, 
+    "St_Close": 275.42, 
+    "St_Open": 273.14, 
+    "St_high": 275.84, 
+    "St_low": 272.715
+  }, 
+  {
+    "Approval": 41.8582, 
+    "Date": "2018-07-05", 
+    "Disapproval": 52.6643, 
+    "St_Close": 273.11, 
+    "St_Open": 272.17, 
+    "St_high": 273.18, 
+    "St_low": 270.96
+  }, 
+  {
+    "Approval": 41.8368, 
+    "Date": "2018-07-03", 
+    "Disapproval": 52.5881, 
+    "St_Close": 270.9, 
+    "St_Open": 272.87, 
+    "St_high": 272.98, 
+    "St_low": 270.42
+  }, 
+  {
+    "Approval": 42.003, 
+    "Date": "2018-07-02", 
+    "Disapproval": 52.1992, 
+    "St_Close": 271.86, 
+    "St_Open": 269.51, 
+    "St_high": 272.04, 
+    "St_low": 269.24
+  }, 
+  {
+    "Approval": 41.7561, 
+    "Date": "2018-06-29", 
+    "Disapproval": 52.3381, 
+    "St_Close": 271.28, 
+    "St_Open": 272.12, 
+    "St_high": 273.66, 
+    "St_low": 271.1495
+  }, 
+  {
+    "Approval": 41.8915, 
+    "Date": "2018-06-28", 
+    "Disapproval": 52.2086, 
+    "St_Close": 270.89, 
+    "St_Open": 269.29, 
+    "St_high": 271.75, 
+    "St_low": 268.49
+  }, 
+  {
+    "Approval": 41.8787, 
+    "Date": "2018-06-27", 
+    "Disapproval": 52.3169, 
+    "St_Close": 269.35, 
+    "St_Open": 272.26, 
+    "St_high": 273.865, 
+    "St_low": 269.18
+  }, 
+  {
+    "Approval": 42.1926, 
+    "Date": "2018-06-26", 
+    "Disapproval": 51.6839, 
+    "St_Close": 271.6, 
+    "St_Open": 271.64, 
+    "St_high": 272.56, 
+    "St_low": 270.79
+  }, 
+  {
+    "Approval": 42.2951, 
+    "Date": "2018-06-25", 
+    "Disapproval": 51.5812, 
+    "St_Close": 271.0, 
+    "St_Open": 273.44, 
+    "St_high": 273.6162, 
+    "St_low": 269.1
+  }, 
+  {
+    "Approval": 42.3709, 
+    "Date": "2018-06-22", 
+    "Disapproval": 51.6105, 
+    "St_Close": 274.74, 
+    "St_Open": 275.66, 
+    "St_high": 275.785, 
+    "St_low": 274.49
+  }, 
+  {
+    "Approval": 42.5653, 
+    "Date": "2018-06-21", 
+    "Disapproval": 51.3467, 
+    "St_Close": 274.24, 
+    "St_Open": 275.96, 
+    "St_high": 275.98, 
+    "St_low": 273.68
+  }, 
+  {
+    "Approval": 42.5117, 
+    "Date": "2018-06-20", 
+    "Disapproval": 51.4082, 
+    "St_Close": 275.97, 
+    "St_Open": 276.27, 
+    "St_high": 276.72, 
+    "St_low": 275.59
+  }, 
+  {
+    "Approval": 42.3014, 
+    "Date": "2018-06-19", 
+    "Disapproval": 51.5325, 
+    "St_Close": 275.5, 
+    "St_Open": 274.0, 
+    "St_high": 275.75, 
+    "St_low": 273.53
+  }, 
+  {
+    "Approval": 42.2358, 
+    "Date": "2018-06-18", 
+    "Disapproval": 51.6195, 
+    "St_Close": 276.56, 
+    "St_Open": 275.49, 
+    "St_high": 276.7, 
+    "St_low": 274.95
+  }, 
+  {
+    "Approval": 42.0946, 
+    "Date": "2018-06-15", 
+    "Disapproval": 51.8181, 
+    "St_Close": 277.13, 
+    "St_Open": 276.6, 
+    "St_high": 277.51, 
+    "St_low": 275.35
+  }, 
+  {
+    "Approval": 41.7975, 
+    "Date": "2018-06-14", 
+    "Disapproval": 51.6924, 
+    "St_Close": 278.73, 
+    "St_Open": 279.01, 
+    "St_high": 279.33, 
+    "St_low": 278.0599
+  }, 
+  {
+    "Approval": 41.4306, 
+    "Date": "2018-06-13", 
+    "Disapproval": 52.5351, 
+    "St_Close": 278.03, 
+    "St_Open": 279.19, 
+    "St_high": 279.48, 
+    "St_low": 277.8
+  }, 
+  {
+    "Approval": 41.5643, 
+    "Date": "2018-06-12", 
+    "Disapproval": 52.5885, 
+    "St_Close": 278.92, 
+    "St_Open": 279.03, 
+    "St_high": 279.33, 
+    "St_low": 278.19
+  }, 
+  {
+    "Approval": 41.5023, 
+    "Date": "2018-06-11", 
+    "Disapproval": 52.7263, 
+    "St_Close": 278.56, 
+    "St_Open": 278.44, 
+    "St_high": 279.37, 
+    "St_low": 278.31
+  }, 
+  {
+    "Approval": 41.7763, 
+    "Date": "2018-06-08", 
+    "Disapproval": 52.5376, 
+    "St_Close": 278.19, 
+    "St_Open": 276.85, 
+    "St_high": 278.25, 
+    "St_low": 276.66
+  }, 
+  {
+    "Approval": 41.8665, 
+    "Date": "2018-06-07", 
+    "Disapproval": 52.443, 
+    "St_Close": 277.37, 
+    "St_Open": 277.95, 
+    "St_high": 278.28, 
+    "St_low": 276.34
+  }, 
+  {
+    "Approval": 41.3142, 
+    "Date": "2018-06-06", 
+    "Disapproval": 52.5613, 
+    "St_Close": 277.4, 
+    "St_Open": 275.79, 
+    "St_high": 277.52, 
+    "St_low": 275.09
+  }, 
+  {
+    "Approval": 41.4149, 
+    "Date": "2018-06-05", 
+    "Disapproval": 52.9907, 
+    "St_Close": 275.1, 
+    "St_Open": 275.05, 
+    "St_high": 275.53, 
+    "St_low": 274.18
+  }, 
+  {
+    "Approval": 41.6079, 
+    "Date": "2018-06-04", 
+    "Disapproval": 52.9107, 
+    "St_Close": 274.9, 
+    "St_Open": 274.53, 
+    "St_high": 275.185, 
+    "St_low": 274.26
+  }, 
+  {
+    "Approval": 41.6163, 
+    "Date": "2018-06-01", 
+    "Disapproval": 52.7781, 
+    "St_Close": 273.6, 
+    "St_Open": 272.41, 
+    "St_high": 273.94, 
+    "St_low": 272.33
+  }, 
+  {
+    "Approval": 41.6462, 
+    "Date": "2018-05-31", 
+    "Disapproval": 52.8667, 
+    "St_Close": 270.94, 
+    "St_Open": 272.15, 
+    "St_high": 272.49, 
+    "St_low": 270.255
+  }, 
+  {
+    "Approval": 42.2995, 
+    "Date": "2018-05-30", 
+    "Disapproval": 52.5071, 
+    "St_Close": 272.61, 
+    "St_Open": 270.5, 
+    "St_high": 273.11, 
+    "St_low": 270.42
+  }, 
+  {
+    "Approval": 42.4017, 
+    "Date": "2018-05-29", 
+    "Disapproval": 52.5412, 
+    "St_Close": 269.02, 
+    "St_Open": 270.31, 
+    "St_high": 271.17, 
+    "St_low": 267.76
+  }, 
+  {
+    "Approval": 42.2581, 
+    "Date": "2018-05-25", 
+    "Disapproval": 52.6294, 
+    "St_Close": 272.15, 
+    "St_Open": 272.15, 
+    "St_high": 272.86, 
+    "St_low": 271.58
+  }, 
+  {
+    "Approval": 42.2264, 
+    "Date": "2018-05-24", 
+    "Disapproval": 52.6928, 
+    "St_Close": 272.8, 
+    "St_Open": 272.91, 
+    "St_high": 273.22, 
+    "St_low": 270.78
+  }, 
+  {
+    "Approval": 42.1587, 
+    "Date": "2018-05-23", 
+    "Disapproval": 52.6373, 
+    "St_Close": 273.36, 
+    "St_Open": 271.17, 
+    "St_high": 273.39, 
+    "St_low": 270.99
+  }, 
+  {
+    "Approval": 42.2518, 
+    "Date": "2018-05-22", 
+    "Disapproval": 52.5926, 
+    "St_Close": 272.61, 
+    "St_Open": 273.96, 
+    "St_high": 274.25, 
+    "St_low": 272.24
+  }, 
+  {
+    "Approval": 42.0174, 
+    "Date": "2018-05-21", 
+    "Disapproval": 52.6859, 
+    "St_Close": 273.37, 
+    "St_Open": 273.01, 
+    "St_high": 273.98, 
+    "St_low": 271.3512
+  }, 
+  {
+    "Approval": 42.3819, 
+    "Date": "2018-05-18", 
+    "Disapproval": 52.348, 
+    "St_Close": 271.33, 
+    "St_Open": 271.62, 
+    "St_high": 272.03, 
+    "St_low": 270.93
+  }, 
+  {
+    "Approval": 42.2626, 
+    "Date": "2018-05-17", 
+    "Disapproval": 52.2713, 
+    "St_Close": 272.01, 
+    "St_Open": 271.94, 
+    "St_high": 273.23, 
+    "St_low": 271.13
+  }, 
+  {
+    "Approval": 42.148, 
+    "Date": "2018-05-16", 
+    "Disapproval": 52.4143, 
+    "St_Close": 272.24, 
+    "St_Open": 271.14, 
+    "St_high": 272.76, 
+    "St_low": 271.11
+  }, 
+  {
+    "Approval": 42.3298, 
+    "Date": "2018-05-15", 
+    "Disapproval": 52.3573, 
+    "St_Close": 271.1, 
+    "St_Open": 271.59, 
+    "St_high": 271.61, 
+    "St_low": 270.03
+  }, 
+  {
+    "Approval": 42.0999, 
+    "Date": "2018-05-14", 
+    "Disapproval": 52.3932, 
+    "St_Close": 272.98, 
+    "St_Open": 273.34, 
+    "St_high": 274.08, 
+    "St_low": 272.36
+  }, 
+  {
+    "Approval": 42.0257, 
+    "Date": "2018-05-11", 
+    "Disapproval": 51.9755, 
+    "St_Close": 272.85, 
+    "St_Open": 272.16, 
+    "St_high": 273.15, 
+    "St_low": 271.58
+  }, 
+  {
+    "Approval": 41.9657, 
+    "Date": "2018-05-10", 
+    "Disapproval": 52.0302, 
+    "St_Close": 272.02, 
+    "St_Open": 270.34, 
+    "St_high": 272.39, 
+    "St_low": 270.22
+  }, 
+  {
+    "Approval": 41.8737, 
+    "Date": "2018-05-09", 
+    "Disapproval": 51.9063, 
+    "St_Close": 269.5, 
+    "St_Open": 267.68, 
+    "St_high": 269.865, 
+    "St_low": 267.09
+  }, 
+  {
+    "Approval": 41.9076, 
+    "Date": "2018-05-08", 
+    "Disapproval": 52.2529, 
+    "St_Close": 266.92, 
+    "St_Open": 266.5, 
+    "St_high": 267.325, 
+    "St_low": 265.15
+  }, 
+  {
+    "Approval": 42.0173, 
+    "Date": "2018-05-07", 
+    "Disapproval": 51.9405, 
+    "St_Close": 266.92, 
+    "St_Open": 266.89, 
+    "St_high": 268.02, 
+    "St_low": 266.11
+  }, 
+  {
+    "Approval": 41.4171, 
+    "Date": "2018-05-04", 
+    "Disapproval": 52.4848, 
+    "St_Close": 266.02, 
+    "St_Open": 261.52, 
+    "St_high": 266.7892, 
+    "St_low": 261.15
+  }, 
+  {
+    "Approval": 41.3184, 
+    "Date": "2018-05-03", 
+    "Disapproval": 52.5311, 
+    "St_Close": 262.62, 
+    "St_Open": 262.26, 
+    "St_high": 263.36, 
+    "St_low": 259.05
+  }, 
+  {
+    "Approval": 41.1517, 
+    "Date": "2018-05-02", 
+    "Disapproval": 52.9179, 
+    "St_Close": 263.2, 
+    "St_Open": 264.76, 
+    "St_high": 265.68, 
+    "St_low": 262.76
+  }, 
+  {
+    "Approval": 41.2131, 
+    "Date": "2018-05-01", 
+    "Disapproval": 52.9431, 
+    "St_Close": 264.98, 
+    "St_Open": 263.87, 
+    "St_high": 265.1, 
+    "St_low": 262.11
+  }, 
+  {
+    "Approval": 40.6415, 
+    "Date": "2018-04-30", 
+    "Disapproval": 53.6685, 
+    "St_Close": 264.51, 
+    "St_Open": 267.26, 
+    "St_high": 267.89, 
+    "St_low": 264.43
+  }, 
+  {
+    "Approval": 40.5987, 
+    "Date": "2018-04-27", 
+    "Disapproval": 53.7381, 
+    "St_Close": 266.56, 
+    "St_Open": 267.0, 
+    "St_high": 267.34, 
+    "St_low": 265.5
+  }, 
+  {
+    "Approval": 40.5917, 
+    "Date": "2018-04-26", 
+    "Disapproval": 53.7483, 
+    "St_Close": 266.31, 
+    "St_Open": 264.79, 
+    "St_high": 267.2452, 
+    "St_low": 264.29
+  }, 
+  {
+    "Approval": 40.5162, 
+    "Date": "2018-04-25", 
+    "Disapproval": 53.6646, 
+    "St_Close": 263.63, 
+    "St_Open": 262.91, 
+    "St_high": 264.13, 
+    "St_low": 260.85
+  }, 
+  {
+    "Approval": 40.3438, 
+    "Date": "2018-04-24", 
+    "Disapproval": 53.9503, 
+    "St_Close": 262.98, 
+    "St_Open": 267.73, 
+    "St_high": 267.9762, 
+    "St_low": 261.28
+  }, 
+  {
+    "Approval": 40.1602, 
+    "Date": "2018-04-23", 
+    "Disapproval": 54.2608, 
+    "St_Close": 266.57, 
+    "St_Open": 267.26, 
+    "St_high": 267.89, 
+    "St_low": 265.35
+  }, 
+  {
+    "Approval": 40.282, 
+    "Date": "2018-04-20", 
+    "Disapproval": 54.2861, 
+    "St_Close": 266.61, 
+    "St_Open": 268.81, 
+    "St_high": 269.06, 
+    "St_low": 265.61
+  }, 
+  {
+    "Approval": 40.2132, 
+    "Date": "2018-04-19", 
+    "Disapproval": 54.2212, 
+    "St_Close": 268.89, 
+    "St_Open": 269.65, 
+    "St_high": 269.88, 
+    "St_low": 267.72
+  }, 
+  {
+    "Approval": 40.1613, 
+    "Date": "2018-04-18", 
+    "Disapproval": 54.268, 
+    "St_Close": 270.39, 
+    "St_Open": 270.69, 
+    "St_high": 271.3, 
+    "St_low": 269.87
+  }, 
+  {
+    "Approval": 40.5929, 
+    "Date": "2018-04-17", 
+    "Disapproval": 53.832, 
+    "St_Close": 270.19, 
+    "St_Open": 269.33, 
+    "St_high": 270.87, 
+    "St_low": 268.75
+  }, 
+  {
+    "Approval": 40.7088, 
+    "Date": "2018-04-16", 
+    "Disapproval": 53.5716, 
+    "St_Close": 267.33, 
+    "St_Open": 267.0, 
+    "St_high": 268.2, 
+    "St_low": 266.07
+  }, 
+  {
+    "Approval": 40.7742, 
+    "Date": "2018-04-13", 
+    "Disapproval": 53.2091, 
+    "St_Close": 265.15, 
+    "St_Open": 267.41, 
+    "St_high": 267.54, 
+    "St_low": 264.01
+  }, 
+  {
+    "Approval": 40.6308, 
+    "Date": "2018-04-12", 
+    "Disapproval": 53.2664, 
+    "St_Close": 265.93, 
+    "St_Open": 265.26, 
+    "St_high": 267.0, 
+    "St_low": 265.06
+  }, 
+  {
+    "Approval": 40.6097, 
+    "Date": "2018-04-11", 
+    "Disapproval": 53.297, 
+    "St_Close": 263.76, 
+    "St_Open": 263.47, 
+    "St_high": 265.64, 
+    "St_low": 263.39
+  }, 
+  {
+    "Approval": 40.6062, 
+    "Date": "2018-04-10", 
+    "Disapproval": 53.3536, 
+    "St_Close": 265.15, 
+    "St_Open": 264.27, 
+    "St_high": 266.04, 
+    "St_low": 262.98
+  }, 
+  {
+    "Approval": 40.2381, 
+    "Date": "2018-04-09", 
+    "Disapproval": 53.8853, 
+    "St_Close": 261.0, 
+    "St_Open": 261.37, 
+    "St_high": 264.84, 
+    "St_low": 259.9356
+  }, 
+  {
+    "Approval": 39.9687, 
+    "Date": "2018-04-06", 
+    "Disapproval": 53.9996, 
+    "St_Close": 259.72, 
+    "St_Open": 263.42, 
+    "St_high": 265.11, 
+    "St_low": 258.0
+  }, 
+  {
+    "Approval": 40.2228, 
+    "Date": "2018-04-05", 
+    "Disapproval": 53.8038, 
+    "St_Close": 265.64, 
+    "St_Open": 265.55, 
+    "St_high": 266.64, 
+    "St_low": 264.32
+  }, 
+  {
+    "Approval": 40.3018, 
+    "Date": "2018-04-04", 
+    "Disapproval": 53.755, 
+    "St_Close": 263.56, 
+    "St_Open": 256.75, 
+    "St_high": 264.355, 
+    "St_low": 256.6
+  }, 
+  {
+    "Approval": 40.3943, 
+    "Date": "2018-04-03", 
+    "Disapproval": 53.6718, 
+    "St_Close": 260.77, 
+    "St_Open": 258.87, 
+    "St_high": 261.31, 
+    "St_low": 256.84
+  }, 
+  {
+    "Approval": 40.6295, 
+    "Date": "2018-04-02", 
+    "Disapproval": 53.4806, 
+    "St_Close": 257.47, 
+    "St_Open": 262.55, 
+    "St_high": 263.13, 
+    "St_low": 254.67
+  }, 
+  {
+    "Approval": 40.2167, 
+    "Date": "2018-03-29", 
+    "Disapproval": 53.6349, 
+    "St_Close": 263.15, 
+    "St_Open": 261.12, 
+    "St_high": 265.26, 
+    "St_low": 259.8389
+  }, 
+  {
+    "Approval": 40.1911, 
+    "Date": "2018-03-28", 
+    "Disapproval": 53.6383, 
+    "St_Close": 259.83, 
+    "St_Open": 260.75, 
+    "St_high": 262.64, 
+    "St_low": 258.58
+  }, 
+  {
+    "Approval": 40.4664, 
+    "Date": "2018-03-27", 
+    "Disapproval": 53.6646, 
+    "St_Close": 260.6, 
+    "St_Open": 266.17, 
+    "St_high": 266.77, 
+    "St_low": 258.84
+  }, 
+  {
+    "Approval": 41.095, 
+    "Date": "2018-03-26", 
+    "Disapproval": 53.3947, 
+    "St_Close": 265.11, 
+    "St_Open": 262.13, 
+    "St_high": 265.43, 
+    "St_low": 259.41
+  }, 
+  {
+    "Approval": 40.6752, 
+    "Date": "2018-03-23", 
+    "Disapproval": 53.1812, 
+    "St_Close": 258.05, 
+    "St_Open": 264.17, 
+    "St_high": 265.02, 
+    "St_low": 257.83
+  }, 
+  {
+    "Approval": 40.6355, 
+    "Date": "2018-03-22", 
+    "Disapproval": 53.4097, 
+    "St_Close": 263.67, 
+    "St_Open": 267.91, 
+    "St_high": 268.87, 
+    "St_low": 263.36
+  }, 
+  {
+    "Approval": 40.5877, 
+    "Date": "2018-03-21", 
+    "Disapproval": 53.4253, 
+    "St_Close": 270.43, 
+    "St_Open": 270.9, 
+    "St_high": 273.27, 
+    "St_low": 270.19
+  }, 
+  {
+    "Approval": 40.7313, 
+    "Date": "2018-03-20", 
+    "Disapproval": 53.5215, 
+    "St_Close": 270.95, 
+    "St_Open": 270.94, 
+    "St_high": 271.67, 
+    "St_low": 270.18
+  }, 
+  {
+    "Approval": 40.7399, 
+    "Date": "2018-03-19", 
+    "Disapproval": 53.5571, 
+    "St_Close": 270.49, 
+    "St_Open": 273.35, 
+    "St_high": 274.3957, 
+    "St_low": 268.62
+  }, 
+  {
+    "Approval": 40.2418, 
+    "Date": "2018-03-16", 
+    "Disapproval": 53.8774, 
+    "St_Close": 274.2, 
+    "St_Open": 274.5, 
+    "St_high": 275.39, 
+    "St_low": 274.14
+  }, 
+  {
+    "Approval": 40.463, 
+    "Date": "2018-03-15", 
+    "Disapproval": 53.656, 
+    "St_Close": 275.0, 
+    "St_Open": 275.88, 
+    "St_high": 276.61, 
+    "St_low": 274.43
+  }, 
+  {
+    "Approval": 40.4244, 
+    "Date": "2018-03-14", 
+    "Disapproval": 53.993, 
+    "St_Close": 275.3, 
+    "St_Open": 277.81, 
+    "St_high": 278.02, 
+    "St_low": 274.67
+  }, 
+  {
+    "Approval": 40.5283, 
+    "Date": "2018-03-13", 
+    "Disapproval": 53.8857, 
+    "St_Close": 276.72, 
+    "St_Open": 279.84, 
+    "St_high": 280.41, 
+    "St_low": 276.03
+  }, 
+  {
+    "Approval": 40.6587, 
+    "Date": "2018-03-12", 
+    "Disapproval": 53.4264, 
+    "St_Close": 278.52, 
+    "St_Open": 279.2, 
+    "St_high": 279.91, 
+    "St_low": 278.0801
+  }, 
+  {
+    "Approval": 40.6797, 
+    "Date": "2018-03-09", 
+    "Disapproval": 53.4261, 
+    "St_Close": 278.87, 
+    "St_Open": 275.7, 
+    "St_high": 278.87, 
+    "St_low": 275.34
+  }, 
+  {
+    "Approval": 40.6288, 
+    "Date": "2018-03-08", 
+    "Disapproval": 53.6234, 
+    "St_Close": 274.1, 
+    "St_Open": 273.55, 
+    "St_high": 274.24, 
+    "St_low": 272.42
+  }, 
+  {
+    "Approval": 40.2174, 
+    "Date": "2018-03-07", 
+    "Disapproval": 54.1019, 
+    "St_Close": 272.78, 
+    "St_Open": 270.42, 
+    "St_high": 273.18, 
+    "St_low": 270.2
+  }, 
+  {
+    "Approval": 40.4723, 
+    "Date": "2018-03-06", 
+    "Disapproval": 53.9764, 
+    "St_Close": 272.88, 
+    "St_Open": 273.3, 
+    "St_high": 273.39, 
+    "St_low": 271.18
+  }, 
+  {
+    "Approval": 40.3874, 
+    "Date": "2018-03-05", 
+    "Disapproval": 54.3046, 
+    "St_Close": 272.19, 
+    "St_Open": 267.73, 
+    "St_high": 272.89, 
+    "St_low": 267.61
+  }, 
+  {
+    "Approval": 40.4183, 
+    "Date": "2018-03-02", 
+    "Disapproval": 54.2665, 
+    "St_Close": 269.08, 
+    "St_Open": 265.8, 
+    "St_high": 269.72, 
+    "St_low": 264.82
+  }, 
+  {
+    "Approval": 40.5963, 
+    "Date": "2018-03-01", 
+    "Disapproval": 54.12, 
+    "St_Close": 267.7, 
+    "St_Open": 271.41, 
+    "St_high": 273.17, 
+    "St_low": 266.0
+  }, 
+  {
+    "Approval": 40.0323, 
+    "Date": "2018-02-28", 
+    "Disapproval": 54.5688, 
+    "St_Close": 271.65, 
+    "St_Open": 275.68, 
+    "St_high": 276.19, 
+    "St_low": 271.29
+  }, 
+  {
+    "Approval": 39.6375, 
+    "Date": "2018-02-27", 
+    "Disapproval": 54.9543, 
+    "St_Close": 274.43, 
+    "St_Open": 278.11, 
+    "St_high": 278.92, 
+    "St_low": 274.36
+  }, 
+  {
+    "Approval": 39.3705, 
+    "Date": "2018-02-26", 
+    "Disapproval": 55.2086, 
+    "St_Close": 277.9, 
+    "St_Open": 275.93, 
+    "St_high": 278.01, 
+    "St_low": 275.26
+  }, 
+  {
+    "Approval": 40.0194, 
+    "Date": "2018-02-23", 
+    "Disapproval": 54.4461, 
+    "St_Close": 274.71, 
+    "St_Open": 271.79, 
+    "St_high": 274.71, 
+    "St_low": 271.25
+  }, 
+  {
+    "Approval": 40.5747, 
+    "Date": "2018-02-22", 
+    "Disapproval": 53.9028, 
+    "St_Close": 270.4, 
+    "St_Open": 271.1, 
+    "St_high": 273.05, 
+    "St_low": 269.64
+  }, 
+  {
+    "Approval": 40.5464, 
+    "Date": "2018-02-21", 
+    "Disapproval": 54.1897, 
+    "St_Close": 270.05, 
+    "St_Open": 271.9, 
+    "St_high": 274.72, 
+    "St_low": 269.94
+  }, 
+  {
+    "Approval": 40.9889, 
+    "Date": "2018-02-20", 
+    "Disapproval": 53.4363, 
+    "St_Close": 271.4, 
+    "St_Open": 272.03, 
+    "St_high": 273.67, 
+    "St_low": 270.5
+  }, 
+  {
+    "Approval": 41.3879, 
+    "Date": "2018-02-16", 
+    "Disapproval": 53.142, 
+    "St_Close": 273.11, 
+    "St_Open": 272.32, 
+    "St_high": 275.32, 
+    "St_low": 272.27
+  }, 
+  {
+    "Approval": 41.4591, 
+    "Date": "2018-02-15", 
+    "Disapproval": 53.2495, 
+    "St_Close": 273.03, 
+    "St_Open": 271.57, 
+    "St_high": 273.04, 
+    "St_low": 268.77
+  }, 
+  {
+    "Approval": 41.4279, 
+    "Date": "2018-02-14", 
+    "Disapproval": 53.1417, 
+    "St_Close": 269.59, 
+    "St_Open": 264.31, 
+    "St_high": 270.0, 
+    "St_low": 264.3
+  }, 
+  {
+    "Approval": 40.9816, 
+    "Date": "2018-02-13", 
+    "Disapproval": 53.6408, 
+    "St_Close": 266.0, 
+    "St_Open": 263.97, 
+    "St_high": 266.62, 
+    "St_low": 263.31
+  }, 
+  {
+    "Approval": 40.9197, 
+    "Date": "2018-02-12", 
+    "Disapproval": 53.5759, 
+    "St_Close": 265.34, 
+    "St_Open": 263.83, 
+    "St_high": 267.01, 
+    "St_low": 261.6644
+  }, 
+  {
+    "Approval": 40.8304, 
+    "Date": "2018-02-09", 
+    "Disapproval": 53.5659, 
+    "St_Close": 261.5, 
+    "St_Open": 260.8, 
+    "St_high": 263.61, 
+    "St_low": 252.92
+  }, 
+  {
+    "Approval": 40.8116, 
+    "Date": "2018-02-08", 
+    "Disapproval": 53.6136, 
+    "St_Close": 257.63, 
+    "St_Open": 268.01, 
+    "St_high": 268.17, 
+    "St_low": 257.59
+  }, 
+  {
+    "Approval": 40.7109, 
+    "Date": "2018-02-07", 
+    "Disapproval": 53.78, 
+    "St_Close": 267.67, 
+    "St_Open": 268.5, 
+    "St_high": 272.36, 
+    "St_low": 267.58
+  }, 
+  {
+    "Approval": 40.1323, 
+    "Date": "2018-02-06", 
+    "Disapproval": 54.1513, 
+    "St_Close": 269.13, 
+    "St_Open": 259.94, 
+    "St_high": 269.7, 
+    "St_low": 258.7
+  }, 
+  {
+    "Approval": 40.3745, 
+    "Date": "2018-02-05", 
+    "Disapproval": 54.1613, 
+    "St_Close": 263.93, 
+    "St_Open": 273.45, 
+    "St_high": 275.85, 
+    "St_low": 263.31
+  }, 
+  {
+    "Approval": 40.1992, 
+    "Date": "2018-02-02", 
+    "Disapproval": 54.2068, 
+    "St_Close": 275.45, 
+    "St_Open": 280.08, 
+    "St_high": 280.23, 
+    "St_low": 275.41
+  }, 
+  {
+    "Approval": 39.7791, 
+    "Date": "2018-02-01", 
+    "Disapproval": 54.6968, 
+    "St_Close": 281.58, 
+    "St_Open": 281.07, 
+    "St_high": 283.06, 
+    "St_low": 280.68
+  }, 
+  {
+    "Approval": 39.5264, 
+    "Date": "2018-01-31", 
+    "Disapproval": 54.9353, 
+    "St_Close": 281.9, 
+    "St_Open": 282.73, 
+    "St_high": 283.3, 
+    "St_low": 280.68
+  }, 
+  {
+    "Approval": 38.9956, 
+    "Date": "2018-01-30", 
+    "Disapproval": 55.8126, 
+    "St_Close": 281.76, 
+    "St_Open": 282.6, 
+    "St_high": 284.736, 
+    "St_low": 281.22
+  }, 
+  {
+    "Approval": 38.7834, 
+    "Date": "2018-01-29", 
+    "Disapproval": 56.2664, 
+    "St_Close": 284.68, 
+    "St_Open": 285.93, 
+    "St_high": 286.43, 
+    "St_low": 284.5
+  }, 
+  {
+    "Approval": 38.8226, 
+    "Date": "2018-01-26", 
+    "Disapproval": 56.2494, 
+    "St_Close": 286.58, 
+    "St_Open": 284.25, 
+    "St_high": 286.6285, 
+    "St_low": 283.96
+  }, 
+  {
+    "Approval": 39.0417, 
+    "Date": "2018-01-25", 
+    "Disapproval": 55.9585, 
+    "St_Close": 283.3, 
+    "St_Open": 284.16, 
+    "St_high": 284.27, 
+    "St_low": 282.405
+  }, 
+  {
+    "Approval": 39.1869, 
+    "Date": "2018-01-24", 
+    "Disapproval": 55.9117, 
+    "St_Close": 283.18, 
+    "St_Open": 284.02, 
+    "St_high": 284.7, 
+    "St_low": 281.84
+  }, 
+  {
+    "Approval": 38.3538, 
+    "Date": "2018-01-23", 
+    "Disapproval": 56.4122, 
+    "St_Close": 283.29, 
+    "St_Open": 282.74, 
+    "St_high": 283.62, 
+    "St_low": 282.37
+  }, 
+  {
+    "Approval": 38.6616, 
+    "Date": "2018-01-22", 
+    "Disapproval": 56.0683, 
+    "St_Close": 282.69, 
+    "St_Open": 280.17, 
+    "St_high": 282.69, 
+    "St_low": 280.11
+  }, 
+  {
+    "Approval": 39.4708, 
+    "Date": "2018-01-19", 
+    "Disapproval": 55.4662, 
+    "St_Close": 280.41, 
+    "St_Open": 279.8, 
+    "St_high": 280.41, 
+    "St_low": 279.14
+  }, 
+  {
+    "Approval": 39.7545, 
+    "Date": "2018-01-18", 
+    "Disapproval": 54.8568, 
+    "St_Close": 279.14, 
+    "St_Open": 279.48, 
+    "St_high": 279.96, 
+    "St_low": 278.58
+  }, 
+  {
+    "Approval": 40.2061, 
+    "Date": "2018-01-17", 
+    "Disapproval": 54.2913, 
+    "St_Close": 279.61, 
+    "St_Open": 278.03, 
+    "St_high": 280.05, 
+    "St_low": 276.97
+  }, 
+  {
+    "Approval": 39.7815, 
+    "Date": "2018-01-16", 
+    "Disapproval": 54.2721, 
+    "St_Close": 276.97, 
+    "St_Open": 279.35, 
+    "St_high": 280.09, 
+    "St_low": 276.18
+  }, 
+  {
+    "Approval": 39.101, 
+    "Date": "2018-01-12", 
+    "Disapproval": 54.5232, 
+    "St_Close": 277.92, 
+    "St_Open": 276.42, 
+    "St_high": 278.11, 
+    "St_low": 276.0819
+  }, 
+  {
+    "Approval": 39.1035, 
+    "Date": "2018-01-11", 
+    "Disapproval": 54.6395, 
+    "St_Close": 276.12, 
+    "St_Open": 274.75, 
+    "St_high": 276.12, 
+    "St_low": 274.56
+  }, 
+  {
+    "Approval": 39.2206, 
+    "Date": "2018-01-10", 
+    "Disapproval": 54.604, 
+    "St_Close": 274.12, 
+    "St_Open": 273.68, 
+    "St_high": 274.42, 
+    "St_low": 272.92
+  }, 
+  {
+    "Approval": 38.7345, 
+    "Date": "2018-01-09", 
+    "Disapproval": 55.0092, 
+    "St_Close": 274.54, 
+    "St_Open": 274.4, 
+    "St_high": 275.25, 
+    "St_low": 274.081
+  }, 
+  {
+    "Approval": 38.6931, 
+    "Date": "2018-01-08", 
+    "Disapproval": 55.0099, 
+    "St_Close": 273.92, 
+    "St_Open": 273.31, 
+    "St_high": 274.1, 
+    "St_low": 272.98
+  }, 
+  {
+    "Approval": 38.8255, 
+    "Date": "2018-01-05", 
+    "Disapproval": 54.9626, 
+    "St_Close": 273.42, 
+    "St_Open": 272.51, 
+    "St_high": 273.56, 
+    "St_low": 271.95
+  }, 
+  {
+    "Approval": 38.4733, 
+    "Date": "2018-01-04", 
+    "Disapproval": 55.3328, 
+    "St_Close": 271.61, 
+    "St_Open": 271.2, 
+    "St_high": 272.16, 
+    "St_low": 270.5447
+  }, 
+  {
+    "Approval": 38.161, 
+    "Date": "2018-01-03", 
+    "Disapproval": 55.6903, 
+    "St_Close": 270.47, 
+    "St_Open": 268.96, 
+    "St_high": 270.64, 
+    "St_low": 268.96
+  }, 
+  {
+    "Approval": 38.1205, 
+    "Date": "2018-01-02", 
+    "Disapproval": 55.8249, 
+    "St_Close": 268.77, 
+    "St_Open": 267.84, 
+    "St_high": 268.81, 
+    "St_low": 267.4
+  }, 
+  {
+    "Approval": 37.8654, 
+    "Date": "2018-01-01", 
+    "Disapproval": 56.1611, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 38.8255, 
+    "Date": "2018-01-06", 
+    "Disapproval": 54.9626, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 38.8255, 
+    "Date": "2018-01-07", 
+    "Disapproval": 54.9626, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 39.101, 
+    "Date": "2018-01-13", 
+    "Disapproval": 54.5232, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 39.101, 
+    "Date": "2018-01-14", 
+    "Disapproval": 54.5232, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 39.2924, 
+    "Date": "2018-01-15", 
+    "Disapproval": 54.5409, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 39.4708, 
+    "Date": "2018-01-20", 
+    "Disapproval": 55.4662, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 39.1116, 
+    "Date": "2018-01-21", 
+    "Disapproval": 55.6647, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 38.8226, 
+    "Date": "2018-01-27", 
+    "Disapproval": 56.2494, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 38.8226, 
+    "Date": "2018-01-28", 
+    "Disapproval": 56.2494, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.208, 
+    "Date": "2018-02-03", 
+    "Disapproval": 54.2018, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.208, 
+    "Date": "2018-02-04", 
+    "Disapproval": 54.2018, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.8304, 
+    "Date": "2018-02-10", 
+    "Disapproval": 53.5659, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.8304, 
+    "Date": "2018-02-11", 
+    "Disapproval": 53.5659, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.3879, 
+    "Date": "2018-02-17", 
+    "Disapproval": 53.142, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.3879, 
+    "Date": "2018-02-18", 
+    "Disapproval": 53.142, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.1414, 
+    "Date": "2018-02-19", 
+    "Disapproval": 53.4146, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.0194, 
+    "Date": "2018-02-24", 
+    "Disapproval": 54.4461, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 39.0783, 
+    "Date": "2018-02-25", 
+    "Disapproval": 55.5811, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.4183, 
+    "Date": "2018-03-03", 
+    "Disapproval": 54.2665, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.4183, 
+    "Date": "2018-03-04", 
+    "Disapproval": 54.2665, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.6797, 
+    "Date": "2018-03-10", 
+    "Disapproval": 53.4261, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.6797, 
+    "Date": "2018-03-11", 
+    "Disapproval": 53.4261, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.2418, 
+    "Date": "2018-03-17", 
+    "Disapproval": 53.8774, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.5158, 
+    "Date": "2018-03-18", 
+    "Disapproval": 53.8409, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.4163, 
+    "Date": "2018-03-24", 
+    "Disapproval": 53.528, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.7414, 
+    "Date": "2018-03-25", 
+    "Disapproval": 53.4833, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.5432, 
+    "Date": "2018-03-30", 
+    "Disapproval": 53.4223, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.5432, 
+    "Date": "2018-03-31", 
+    "Disapproval": 53.4223, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.5432, 
+    "Date": "2018-04-01", 
+    "Disapproval": 53.4223, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 39.9687, 
+    "Date": "2018-04-07", 
+    "Disapproval": 53.9996, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 39.9687, 
+    "Date": "2018-04-08", 
+    "Disapproval": 53.9996, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.7742, 
+    "Date": "2018-04-14", 
+    "Disapproval": 53.2091, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.5959, 
+    "Date": "2018-04-15", 
+    "Disapproval": 53.789, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.282, 
+    "Date": "2018-04-21", 
+    "Disapproval": 54.2861, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.282, 
+    "Date": "2018-04-22", 
+    "Disapproval": 54.2861, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.3725, 
+    "Date": "2018-04-28", 
+    "Disapproval": 53.955, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.3725, 
+    "Date": "2018-04-29", 
+    "Disapproval": 53.955, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.0897, 
+    "Date": "2018-05-05", 
+    "Disapproval": 52.0334, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.0897, 
+    "Date": "2018-05-06", 
+    "Disapproval": 52.0334, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.1231, 
+    "Date": "2018-05-12", 
+    "Disapproval": 52.0417, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.1231, 
+    "Date": "2018-05-13", 
+    "Disapproval": 52.0417, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.3819, 
+    "Date": "2018-05-19", 
+    "Disapproval": 52.348, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.3819, 
+    "Date": "2018-05-20", 
+    "Disapproval": 52.348, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.7004, 
+    "Date": "2018-05-26", 
+    "Disapproval": 52.3301, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.7004, 
+    "Date": "2018-05-27", 
+    "Disapproval": 52.3301, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.5874, 
+    "Date": "2018-05-28", 
+    "Disapproval": 52.3759, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.6092, 
+    "Date": "2018-06-02", 
+    "Disapproval": 52.6728, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.6092, 
+    "Date": "2018-06-03", 
+    "Disapproval": 52.6728, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.6288, 
+    "Date": "2018-06-09", 
+    "Disapproval": 52.6418, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.6288, 
+    "Date": "2018-06-10", 
+    "Disapproval": 52.6418, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.0946, 
+    "Date": "2018-06-16", 
+    "Disapproval": 51.8181, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.0946, 
+    "Date": "2018-06-17", 
+    "Disapproval": 51.8181, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.3709, 
+    "Date": "2018-06-23", 
+    "Disapproval": 51.6105, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.4976, 
+    "Date": "2018-06-24", 
+    "Disapproval": 51.601, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.7561, 
+    "Date": "2018-06-30", 
+    "Disapproval": 52.3381, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.798, 
+    "Date": "2018-07-01", 
+    "Disapproval": 52.2624, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.8368, 
+    "Date": "2018-07-04", 
+    "Disapproval": 52.5881, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.2434, 
+    "Date": "2018-07-07", 
+    "Disapproval": 52.88, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.203, 
+    "Date": "2018-07-08", 
+    "Disapproval": 52.9597, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.0318, 
+    "Date": "2018-07-14", 
+    "Disapproval": 53.0067, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.0318, 
+    "Date": "2018-07-15", 
+    "Disapproval": 53.0067, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.7168, 
+    "Date": "2018-07-21", 
+    "Disapproval": 52.8726, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.9939, 
+    "Date": "2018-07-22", 
+    "Disapproval": 52.8179, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.4791, 
+    "Date": "2018-07-28", 
+    "Disapproval": 52.9919, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.2066, 
+    "Date": "2018-07-29", 
+    "Disapproval": 53.1672, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.4345, 
+    "Date": "2018-08-04", 
+    "Disapproval": 52.8048, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.4345, 
+    "Date": "2018-08-05", 
+    "Disapproval": 52.8048, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.9125, 
+    "Date": "2018-08-11", 
+    "Disapproval": 52.49, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.9125, 
+    "Date": "2018-08-12", 
+    "Disapproval": 52.49, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.9737, 
+    "Date": "2018-08-18", 
+    "Disapproval": 52.5411, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.9737, 
+    "Date": "2018-08-19", 
+    "Disapproval": 52.5411, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.466, 
+    "Date": "2018-08-25", 
+    "Disapproval": 53.5682, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.8865, 
+    "Date": "2018-08-26", 
+    "Disapproval": 53.3716, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.2538, 
+    "Date": "2018-09-01", 
+    "Disapproval": 54.465, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.2538, 
+    "Date": "2018-09-02", 
+    "Disapproval": 54.465, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.0597, 
+    "Date": "2018-09-03", 
+    "Disapproval": 54.1273, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.5738, 
+    "Date": "2018-09-08", 
+    "Disapproval": 53.425, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.5738, 
+    "Date": "2018-09-09", 
+    "Disapproval": 53.425, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.1571, 
+    "Date": "2018-09-15", 
+    "Disapproval": 53.6185, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.1571, 
+    "Date": "2018-09-16", 
+    "Disapproval": 53.6185, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 40.6116, 
+    "Date": "2018-09-22", 
+    "Disapproval": 53.7877, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.2412, 
+    "Date": "2018-09-23", 
+    "Disapproval": 53.4798, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.5109, 
+    "Date": "2018-09-29", 
+    "Disapproval": 52.6635, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.5109, 
+    "Date": "2018-09-30", 
+    "Disapproval": 52.6635, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.3773, 
+    "Date": "2018-10-06", 
+    "Disapproval": 52.0429, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.3267, 
+    "Date": "2018-10-07", 
+    "Disapproval": 52.2066, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.7905, 
+    "Date": "2018-10-13", 
+    "Disapproval": 52.6078, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.779, 
+    "Date": "2018-10-14", 
+    "Disapproval": 52.594, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.261, 
+    "Date": "2018-10-20", 
+    "Disapproval": 52.4538, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.6729, 
+    "Date": "2018-10-21", 
+    "Disapproval": 52.1644, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.4463, 
+    "Date": "2018-10-27", 
+    "Disapproval": 52.4746, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.4408, 
+    "Date": "2018-10-28", 
+    "Disapproval": 52.4867, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.1249, 
+    "Date": "2018-11-03", 
+    "Disapproval": 52.9868, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.2269, 
+    "Date": "2018-11-04", 
+    "Disapproval": 52.6349, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.1634, 
+    "Date": "2018-11-10", 
+    "Disapproval": 52.4832, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.1634, 
+    "Date": "2018-11-11", 
+    "Disapproval": 52.4832, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.4588, 
+    "Date": "2018-11-17", 
+    "Disapproval": 53.0445, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.4842, 
+    "Date": "2018-11-18", 
+    "Disapproval": 53.0301, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.8826, 
+    "Date": "2018-11-22", 
+    "Disapproval": 52.3032, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.8826, 
+    "Date": "2018-11-24", 
+    "Disapproval": 52.3032, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.9071, 
+    "Date": "2018-11-25", 
+    "Disapproval": 52.2979, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.4466, 
+    "Date": "2018-12-01", 
+    "Disapproval": 52.7499, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.5411, 
+    "Date": "2018-12-02", 
+    "Disapproval": 52.6848, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.3493, 
+    "Date": "2018-12-05", 
+    "Disapproval": 51.7474, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.2094, 
+    "Date": "2018-12-08", 
+    "Disapproval": 52.0828, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.3605, 
+    "Date": "2018-12-09", 
+    "Disapproval": 52.1075, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.5018, 
+    "Date": "2018-12-15", 
+    "Disapproval": 51.6832, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.5253, 
+    "Date": "2018-12-16", 
+    "Disapproval": 51.9974, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.1632, 
+    "Date": "2018-12-22", 
+    "Disapproval": 52.8024, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 42.1632, 
+    "Date": "2018-12-23", 
+    "Disapproval": 52.8024, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.8983, 
+    "Date": "2018-12-25", 
+    "Disapproval": 52.9834, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.4159, 
+    "Date": "2018-12-29", 
+    "Disapproval": 53.2887, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }, 
+  {
+    "Approval": 41.4277, 
+    "Date": "2018-12-30", 
+    "Disapproval": 53.3614, 
+    "St_Close": null, 
+    "St_Open": null, 
+    "St_high": null, 
+    "St_low": null
+  }
+]
