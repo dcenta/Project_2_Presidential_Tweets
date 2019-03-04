@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tweet Storm</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Plug in needed for Candlestick Chart -->
+    <script src='Chart_JS_PlugIn.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        
+        body {
+            margin: 0;
+        }
+        /* Style the header */
+        
+        .header {
+            background-color: #f1f1f1;
+            padding: 20px;
+            text-align: center;
+        }
+        /* Style the top navigation bar */
+        /* Change color on hover */
+        /* Create three unequal columns that floats next to each other */
+        
+        .column {
+            float: left;
+        }
+        /* Middle column */
+        
+        <!-- .column.middle {
+            width: 75%;
+        }
+        
+        -->
+        /* Clear floats after the columns */
+        
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+        
+        @media screen and (max-width: 600px) {
+            .column.side,
+            .column.middle {
+                width: 100%;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="header">
+        <h1>Presidential Tweets...Are they helping or hurting your portfolio or the President's approval rating?</h1>
+    </div>
+
+
+    <div class="column side">
+        <a href='test.js'>
+            <h4>S&P ETF Candlestick</h4>
+            <div id='stock_SPY_ETF' style='border: 1px solid; margin: 1px; width:150px; height:150px; float:absolute'>
+
+
+            </div>
+        </a>
+
+        <a href=#>
+            <h4>Approval-Disapproval</h4>
+            <div id='approval_Disapproval' style='border: 1px solid; margin: 1px; width:150px; height:150px; float:absolute'>
+
+            </div>
+        </a>
+
+        <a href=#>
+            <h4>Tweet WordMap</h4>
+            <div id='wordMap' style='border: 1px solid; margin: 1px; width:150px; height:150px; float:absolute'>
+
+            </div>
+        </a>
+    </div>
+
+
+    <a href=#>
+        <div id='bigChart' style='border: 3px solid; margin: 5px; width:80%; height:80%; float:left'>
+
+        </div>
+    </a>
+
+
+</body>
+
+</html>

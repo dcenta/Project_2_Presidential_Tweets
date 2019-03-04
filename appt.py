@@ -86,7 +86,7 @@ def tweet():
     for result in results:
         trace.append({
             "Date": result[0],
-            "Retweet Count": result[1],
+            "Retweet_Count": result[1],
             "Tweets": result[2]
         })
     return jsonify(trace)
