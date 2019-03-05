@@ -15,7 +15,7 @@ from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 # The database URI
 # Note that sakila is the name of the DB
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:Asdffdsa112233@localhost/sakila'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:dFtR4710*@localhost/sakila'
 db = SQLAlchemy(app)
 
 
@@ -67,7 +67,7 @@ def setup():
 @app.route("/")
 def home():
     """Render Home Page."""
-    return render_template("index.html")
+    return render_template("index4.html")
 
 
 # a testing page
