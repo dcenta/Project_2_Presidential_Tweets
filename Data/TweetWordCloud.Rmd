@@ -1,0 +1,102 @@
+---
+#title: "R Notebook"
+#output: html_notebook
+---
+
+#This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+# Install Packages
+install.packages("tm")  # for text mining
+install.packages("SnowballC") # for text stemming
+install.packages("wordcloud") # word-cloud generator 
+install.packages("RColorBrewer") # color palettes
+# Load Libraries
+library("tm")
+library("SnowballC")
+library("wordcloud")
+library("RColorBrewer")
+
+```{r}
+#text <- readLines(file.choose())
+```
+# Read the text file from the txt file
+filePath <- "pres_cheeto_tweets.txt"
+text <- readLines("/Users/kyriakikaralis/Downloads/pres_cheeto_tweets.txt")
+
+```{r}
+# Load the data as a corpus
+docs <- Corpus(VectorSource(text))
+```
+
+```{r}
+inspect(docs)
+```
+
+```{r}
+#remove some extra stuff from the text file, @'s etc
+toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+docs <- tm_map(docs, toSpace, "/")
+docs <- tm_map(docs, toSpace, "@")
+docs <- tm_map(docs, toSpace, "\\|")
+```
+
+```{r}
+# Convert the text to lower case
+docs <- tm_map(docs, content_transformer(tolower))
+# Remove numbers
+docs <- tm_map(docs, removeNumbers)
+# Remove english common stopwords
+docs <- tm_map(docs, removeWords, stopwords("english"))
+# Remove your own stop word
+# specify your stopwords as a character vector
+docs <- tm_map(docs, removeWords, c("the", "and", "for", "our", "are", "that", "with", "they", "tco", "https", "amp")) 
+# Remove punctuations
+docs <- tm_map(docs, removePunctuation)
+# Eliminate extra white spaces
+docs <- tm_map(docs, stripWhitespace)
+# Text stemming
+# docs <- tm_map(docs, stemDocument)
+```
+
+```{r}
+dtm <- TermDocumentMatrix(docs)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+head(d, 10)
+```
+
+```{r}
+set.seed(1234)
+wordcloud(words = d$word, freq = d$freq, min.freq = 1,
+          max.words=200, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(8, "Dark2"))
+```
+#Find common word associations, just for fun.
+```{r}
+findFreqTerms(dtm, lowfreq = 4)
+```
+#see what words are associated with "Cohen", again just for fun. We could do this for any of the common words used in these tweets.
+```{r}
+findAssocs(dtm, terms = "cohen", corlimit = 0.3)
+```
+#show words and their frequency
+```{r}
+head(d, 10)
+```
+#bar chart made of 50 most common words.
+```{r}
+barplot(d[1:50,]$freq, las = 2, names.arg = d[1:50,]$word,
+        col ="lightblue", main ="Most Frequent Words Tweeted",
+        ylab = "Word Frequencies")
+```
+
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
