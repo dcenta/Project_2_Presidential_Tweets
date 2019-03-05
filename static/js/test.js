@@ -21,19 +21,19 @@ function buildPlot() {
                 console.log(response)
                 var datesTw = response.map(data => data.Date);
                 var Retweet = response.map(data => data.Retweet_Count);
-                var Tweets = response.map(data => data.Tweets.substring(0, 80));
-
+                var Tweets = response.map(data => data.Tweets.substring(0, 100));
+                console.log(Tweets);
                 var trace1 = {
                     type: "scatter",
                     mode: "lines",
                     name: name,
                     x: dates,
                     y: approval,
+                    text: Tweets,
+                    textposition: 'bottom',
+                    hoverinfo: 'trace1',
                     line: {
                         color: "#17BECF",
-                        text: Tweets,
-                        textposition: 'bottom',
-                        hoverinfo: 'trace1'
                     }
                 };
                 var trace2 = {
@@ -60,24 +60,25 @@ function buildPlot() {
             // };
 
         // Candlestick Trace
-        var trace = {
-            type: "candlestick",
-            x: dates,
-            high: highPrices,
-            low: lowPrices,
-            open: openingPrices,
-            close: closingPrices,
-            text: Tweets,
-            textposition: 'bottom',
-            hoverinfo: 'trace'
-        };
+        // var trace = {
+        //     type: "candlestick",
+        //     name: name,
+        //     x: dates,
+        //     high: highPrices,
+        //     low: lowPrices,
+        //     open: openingPrices,
+        //     close: closingPrices,
+        //     text: Tweets,
+        //     textposition: 'bottom',
+        //     hoverinfo: 'trace'
+        // };
 
-        var approvalData = [trace1, trace2]
-        var data = [trace];
+        // var approvalData = [trace1, trace2]
+        // var data = [trace];
 
 
         var layout1 = {
-            title: `approval vs tweets`,
+            title: `Approval/Disapproval vs Tweets`,
             xaxis: {
                 //range: [startDate, endDate],
                 type: "date"
@@ -90,7 +91,7 @@ function buildPlot() {
 
 
         var layout = {
-            title: `SPY vs Tweets`,
+            title: `SPY ETF with Tweets`,
             xaxis: {
                 //range: [01/01/2018, 12/31/2018],
                 type: "date"
@@ -149,7 +150,7 @@ function buildPlot2() {
             console.log(response)
             var datesTw = response.map(data => data.Date);
             var Retweet = response.map(data => data.Retweet_Count);
-            var Tweets = response.map(data => data.Tweets.substring(0, 80));
+            var Tweets = response.map(data => data.Tweets.substring(0, 100));
 
             var trace1 = {
                 type: "scatter",
@@ -206,7 +207,7 @@ function buildPlot2() {
 
 
             var layout1 = {
-                title: `approval vs tweets`,
+                title: `President Approval/Disapproval with tweets`,
                 xaxis: {
                     //range: [startDate, endDate],
                     type: "date"
@@ -250,14 +251,14 @@ function buildPlot2() {
 
 
             // Plotly.newPlot("bigchart", data, layout);
-            Plotly.newPlot("bigchart", approvalData, layout1);
+            Plotly.newPlot("bigchart2", approvalData, layout1);
         })
     })
 }
 
-buildPlot()
-buildPlot2()
-    // console.log('test')
+// buildPlot()
+// buildPlot2()
+// console.log('test')
 
 var chartDiv = d3.select("#buildchart");
 chartDiv.html("")
@@ -265,6 +266,7 @@ chartDiv.html("")
 // Getting a reference to the button on the page with the id property set to `click-me`
 var button = d3.select("#cs");
 var button2 = d3.select("#ap");
+// var button3 = d3.select("#wm");
 // // Getting a reference to the input element on the page with the id property set to 'input-field'
 // var inputField = d3.select("#input-field");
 
@@ -279,6 +281,7 @@ var button2 = d3.select("#ap");
 // We can use the `on` function in d3 to attach an event to the handler function
 button.on("click", buildPlot);
 button2.on("click", buildPlot2);
+// button3.on("click", img src = '//assets/images/wordmap.png');
 
 
 // // You can also define the click handler inline
