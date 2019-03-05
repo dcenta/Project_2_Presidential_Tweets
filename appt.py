@@ -82,8 +82,11 @@ def tweet():
     print("PASS")
     results = db.session.query(Tweets.created_at, Tweets.retweet_count, Tweets.text).all()
 
+   
+
     trace = []
     for result in results:
+
         trace.append({
             "Date": result[0],
             "Retweet_Count": result[1],

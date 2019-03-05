@@ -8,14 +8,6 @@ function buildPlot() {
 
     // Grab values from the response json object to build the plots
 
-    // var approval = unpack(data.dataset, 0);
-    // var dates = upack(data.dataset.data, 1);
-    // var disapproval = unpack(data.dataset.data, 2);
-    // var closingPrices = unpack(data.dataset.data, 3);
-    // var openingPrices = unpack(data.dataset.data, 4);
-    // var highPrices = unpack(data.dataset.data, 5);
-    // var lowPrices = unpack(data.dataset.data, 6);
-
     var approval = response.map(data => data.Approval);
     var dates = response.map(data => data.Date);
     var disapproval = response.map(data => data.Disapproval);
@@ -23,13 +15,11 @@ function buildPlot() {
     var openingPrices = response.map(data => data.St_Open);
     var highPrices = response.map(data => data.St_high);
     var lowPrices = response.map(data => data.St_low);
-    console.log(dates)
-    console.log(openingPrices)
     
   var tweets = "/tweets";
   d3.json(tweets).then(function(response) {
     console.log(response)
-    var dateTw = response.map(data => data.Date);
+    var datesTw = response.map(data => data.Date);
     var Retweet = response.map(data => data.Retweet_Count);
     var Tweets = response.map(data => data.Tweets);
     
@@ -38,21 +28,32 @@ function buildPlot() {
       mode: "lines",
       name: name,
       x: dates,
-      y: disapproval,
+      y: approval,
       line: {
-        color: "#17BECF"
+        color: "#17BECF",
+      text: Tweets,
+      hoverinfo: 'text'
       }
-    }
+    };
     var trace2 = {
       type: "scatter",
       mode: "lines",
       name: name,
       x: dates,
-      y: approval,
+      y: disapproval,
       line: {
         color: "#17BECF"
       }
-    
+    };
+    var trace3 = {
+      type: "scatter",
+      mode: "lines",
+      name: name,
+      x: dates,
+      y: (closingPrices)/5,
+      line: {
+        color: "#17BECF"
+      }
     };
 
     // Candlestick Trace
@@ -62,7 +63,9 @@ function buildPlot() {
       high: highPrices,
       low: lowPrices,
       open: openingPrices,
-      close: closingPrices
+      close: closingPrices,
+      text: Tweets,
+      hoverinfo: 'text', dates,
     };
 
     var approvalData = [trace1, trace2]
@@ -92,6 +95,25 @@ function buildPlot() {
         type: "linear"
       }
     };
+
+  // // Step 1: Append a div to the body to create tooltips, assign it a class
+  // // =======================================================
+  // var toolTip = d3.select("body").append("div")
+  //   .attr("class", "tooltip");
+
+  // // Step 2: Add an onmouseover event to display a tooltip
+  // // ========================================================
+  // circlesGroup.on("mouseover", function(d, i) {
+  //   toolTip.style("display", "block");
+  //   toolTip.html(`Pizzas eaten: <strong>${tweets[i]}</strong>`)
+  //     .style("left", d3.event.pageX + "px")
+  //     .style("top", d3.event.pageY + "px");
+  // })
+  //   // Step 3: Add an onmouseout event to make the tooltip invisible
+  //   .on("mouseout", function() {
+  //     toolTip.style("display", "none");
+  //   });
+
 
     Plotly.newPlot("candle", data, layout);
     Plotly.newPlot("approval", approvalData, layout1);
