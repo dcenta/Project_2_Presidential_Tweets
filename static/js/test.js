@@ -21,7 +21,7 @@ function buildPlot() {
     console.log(response)
     var datesTw = response.map(data => data.Date);
     var Retweet = response.map(data => data.Retweet_Count);
-    var Tweets = response.map(data => data.Tweets);
+    var Tweets = response.map(data => data.Tweets.substring(0,80));
     
     var trace1 = {
       type: "scatter",
@@ -41,6 +41,8 @@ function buildPlot() {
       name: name,
       x: dates,
       y: disapproval,
+      text: Tweets,
+      hoverinfo: 'text',
       line: {
         color: "#17BECF"
       }
@@ -65,7 +67,7 @@ function buildPlot() {
       open: openingPrices,
       close: closingPrices,
       text: Tweets,
-      hoverinfo: 'text', dates,
+      hoverinfo: 'text'
     };
 
     var approvalData = [trace1, trace2]
@@ -116,7 +118,43 @@ function buildPlot() {
 
 
     Plotly.newPlot("candle", data, layout);
-    Plotly.newPlot("approval", approvalData, layout1);
+    //Plotly.newPlot("approval", approvalData, layout1);
   })})}
   
-buildPlot()
+//buildPlot()
+
+
+// Getting a reference to the button on the page with the id property set to `click-me`
+var button = d3.select("#cs");
+var button2 = d3.select("#123");
+// // Getting a reference to the input element on the page with the id property set to 'input-field'
+// var inputField = d3.select("#input-field");
+
+// // This function is triggered when the button is clicked
+// function handleClick() {
+//   console.log("A button was clicked!");
+
+//   // We can use d3 to see the object that dispatched the event
+//   console.log(d3.event.target);
+// }
+
+// We can use the `on` function in d3 to attach an event to the handler function
+button.on("click", buildPlot);
+
+
+// // You can also define the click handler inline
+// button.on("click", function() {
+//   console.log("Hi, a button was clicked!");
+//   console.log(d3.event.target);
+// });
+
+// // Event handlers are just normal functions that can do anything you want
+// button.on("click", function() {
+//   d3.select(".giphy-me").html("<img src='https://gph.to/2Krfn0w' alt='giphy'>");
+// });
+
+// // Input fields can trigger a change event when new text is entered.
+// inputField.on("change", function() {
+//   var newText = d3.event.target.value;
+//   console.log(newText);
+// });
