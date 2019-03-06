@@ -15,7 +15,7 @@ from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 # The database URI
 # Note that sakila is the name of the DB
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:dFtR4710*@localhost/sakila'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:Asdffdsa112233@localhost/sakila'
 db = SQLAlchemy(app)
 
 
