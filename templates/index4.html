@@ -5,43 +5,47 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Flask Plotlyjs Example</title>
+    <title>Presidential Tweets Flask</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
 </head>
 
 <body>
-    <div id="bigchart"></div>
+        <!-- <img class="card-img-top" src="https://www.prgarnett.net/wp-content/uploads/2017/12/TrumpWords.png"> -->
+  
     <!-- <div class='container'> -->
-    <div class="card-group" style="width:50rem;">
+    <div class="card-group" style="width:40rem;">
 
 
         <div class="card text-center" style="width: 12rem;">
             <img class="card-img-top" src="https://blog.syncfusion.com/wp-content/uploads/2018/08/1-2.png">
             <div id='candle' class="card-body">
-                <h6 class="card-title">S&P 500 ETF Candlestick</h6>
+                <h6 class="card-title"><br>S&P 500 ETF Candlestick</h6>
                 <button id='cs' class="btn btn-primary">Big Chart</button>
             </div>
         </div>
         <div class="card text-center" style="width: 12rem;">
+                <div id='wordmap' class="card-body">
+                    <img class="card-img-top" src="https://www.prgarnett.net/wp-content/uploads/2017/12/TrumpWords.png">
+                    <h6 class="card-title">Tweet WordMap</h6>
+                    <button id='wc' class="btn btn-primary">Big Chart</button>
+                </div>
+            </div>
+        <div class="card text-center" style="width: 12rem;">
             <img class="card-img-top" src="https://cdn.smassets.net/assets/cms/cc/uploads/Slide1-trump-approval.png">
             <div id='approval' class="card-body">
-                <h6 class="card-title">Presidential Approve/Disapprove</h6>
+                <h6 class="card-title"><br>Presidential Approve/Disapprove</h6>
                 <button id='ap' class="btn btn-primary">Big Chart</button>
             </div>
         </div>
-        <div class="card text-center" style="width: 12rem;">
-            <div id='wordmap' class="card-body">
-                <img class="card-img-top" src="https://www.prgarnett.net/wp-content/uploads/2017/12/TrumpWords.png">
-                <h6 class="card-title">Tweet WordMap</h6>
-                <button id='wm' class="btn btn-primary">Big Chart</button>
-            </div>
-        </div>
-    </div>
-    
 
+    </div>
+    <div id="bigchart">
+    </div>
+ 
     <!-- <div class='float-right'>
         <div class="card text-center" style="width: 72rem;">
             <img class="card-img-top" src="#href" alt="Card image cap">
